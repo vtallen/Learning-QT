@@ -1,0 +1,8 @@
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/QList.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/install.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/install/local.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QList/build-QList-Desktop-Debug/CMakeFiles/QList_autogen.dir
