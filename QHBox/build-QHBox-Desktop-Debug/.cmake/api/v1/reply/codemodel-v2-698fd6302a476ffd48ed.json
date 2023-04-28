@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2f701e80d27c58fbd561.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QHBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QHBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHBox-Debug-ea62b4b035e0d629a70c.json",
+					"name" : "QHBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHBox_autogen-Debug-1a0108fb50ca34caa4af.json",
+					"name" : "QHBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHBox_autogen_timestamp_deps-Debug-a4dff155863c548485ca.json",
+					"name" : "QHBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug",
+		"source" : "/home/vtallen/Nextcloud/Programming/QT/QHBox/QHBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

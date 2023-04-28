@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-be0fbca9c3b3bc440150.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CheckboxesAndRaidobuttons",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CheckboxesAndRaidobuttons::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CheckboxesAndRaidobuttons-Debug-aae770b7dff64afc711f.json",
+					"name" : "CheckboxesAndRaidobuttons",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CheckboxesAndRaidobuttons_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CheckboxesAndRaidobuttons_autogen-Debug-66a3a78c347137c9fa08.json",
+					"name" : "CheckboxesAndRaidobuttons_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/build-CheckboxesAndRaidobuttons-Desktop-Debug",
+		"source" : "/home/vtallen/CheckboxesAndRaidobuttons"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

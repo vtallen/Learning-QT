@@ -1,0 +1,21 @@
+# ninja log v5
+2	216	1682608147887540986	QHBox_autogen/timestamp	fe08b204c4ff9ac2
+2	216	1682608147887540986	QHBox_autogen/mocs_compilation.cpp	fe08b204c4ff9ac2
+2	216	1682608147887540986	/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug/QHBox_autogen/timestamp	fe08b204c4ff9ac2
+2	216	1682608147887540986	/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug/QHBox_autogen/mocs_compilation.cpp	fe08b204c4ff9ac2
+216	1366	1682608149039541868	CMakeFiles/QHBox.dir/QHBox_autogen/mocs_compilation.cpp.o	b3bbc38e1342145f
+216	1420	1682608149094541910	CMakeFiles/QHBox.dir/widget.cpp.o	54bc64f146d37e6a
+216	1422	1682608149096541912	CMakeFiles/QHBox.dir/main.cpp.o	f4af18cfb5b4078
+1423	1656	1682608149327542089	QHBox	f64c2ec417098697
+4	13	1682608317255917973	QHBox_autogen/timestamp	fe08b204c4ff9ac2
+4	13	1682608317255917973	QHBox_autogen/mocs_compilation.cpp	fe08b204c4ff9ac2
+4	13	1682608317255917973	/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug/QHBox_autogen/timestamp	fe08b204c4ff9ac2
+4	13	1682608317255917973	/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug/QHBox_autogen/mocs_compilation.cpp	fe08b204c4ff9ac2
+14	1586	1682608318827917408	CMakeFiles/QHBox.dir/widget.cpp.o	54bc64f146d37e6a
+1586	1832	1682608319071917320	QHBox	f64c2ec417098697
+2	15	1682608439887575279	QHBox_autogen/timestamp	fe08b204c4ff9ac2
+2	15	1682608439887575279	QHBox_autogen/mocs_compilation.cpp	fe08b204c4ff9ac2
+2	15	1682608439887575279	/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug/QHBox_autogen/timestamp	fe08b204c4ff9ac2
+2	15	1682608439887575279	/home/vtallen/Nextcloud/Programming/QT/QHBox/build-QHBox-Desktop-Debug/QHBox_autogen/mocs_compilation.cpp	fe08b204c4ff9ac2
+16	1272	1682608441144563091	CMakeFiles/QHBox.dir/widget.cpp.o	54bc64f146d37e6a
+1272	1520	1682608441390560705	QHBox	f64c2ec417098697
