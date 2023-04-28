@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e5537723b48ce941bd51.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MessageBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MessageBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MessageBox-Debug-1fa6194fe2e8cde21948.json",
+					"name" : "MessageBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MessageBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MessageBox_autogen-Debug-cd794597fc6fbbebd9ae.json",
+					"name" : "MessageBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MessageBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MessageBox_autogen_timestamp_deps-Debug-622beebb0193d9bc5671.json",
+					"name" : "MessageBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/MessageBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,9 @@
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/QTextEditDemo.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/install.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/install/local.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/QTextEditDemo_autogen_timestamp_deps.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QTextEditDemo/build-QTextEditDemo-Desktop-Debug/CMakeFiles/QTextEditDemo_autogen.dir

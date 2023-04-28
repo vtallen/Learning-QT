@@ -1,0 +1,23 @@
+# ninja log v5
+1596	1821	1682385548493304057	CalorieCounter	31b2a3efb57d9e40
+1	193	1682385546865302435	CalorieCounter_autogen/timestamp	f16baeeda7c6838e
+193	1596	1682385548271303836	CMakeFiles/CalorieCounter.dir/mainscreen.cpp.o	7ef5f24ef3ee6588
+1	193	1682385546865302435	CalorieCounter_autogen/mocs_compilation.cpp	f16baeeda7c6838e
+193	1103	1682385547778303345	CMakeFiles/CalorieCounter.dir/person.cpp.o	3890483c567f078
+208	1345	1682385483159239071	CMakeFiles/CalorieCounter.dir/main.cpp.o	22b465f53b63e06
+193	1458	1682385548133303698	CMakeFiles/CalorieCounter.dir/CalorieCounter_autogen/mocs_compilation.cpp.o	6d4a56889b1cb0e3
+1	193	1682385546865302435	/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug/CalorieCounter_autogen/mocs_compilation.cpp	f16baeeda7c6838e
+1	193	1682385546865302435	/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug/CalorieCounter_autogen/timestamp	f16baeeda7c6838e
+1	281	1682386047367227414	CalorieCounter_autogen/timestamp	f16baeeda7c6838e
+1	281	1682386047367227414	CalorieCounter_autogen/mocs_compilation.cpp	f16baeeda7c6838e
+1	281	1682386047367227414	/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug/CalorieCounter_autogen/timestamp	f16baeeda7c6838e
+1	281	1682386047367227414	/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug/CalorieCounter_autogen/mocs_compilation.cpp	f16baeeda7c6838e
+281	2163	1682386049251228546	CMakeFiles/CalorieCounter.dir/CalorieCounter_autogen/mocs_compilation.cpp.o	6d4a56889b1cb0e3
+281	2205	1682386049293228572	CMakeFiles/CalorieCounter.dir/main.cpp.o	22b465f53b63e06
+281	2494	1682386049582228746	CMakeFiles/CalorieCounter.dir/mainscreen.cpp.o	7ef5f24ef3ee6588
+2	11	1682386093657255237	CalorieCounter_autogen/timestamp	f16baeeda7c6838e
+2	11	1682386093657255237	CalorieCounter_autogen/mocs_compilation.cpp	f16baeeda7c6838e
+2	11	1682386093657255237	/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug/CalorieCounter_autogen/timestamp	f16baeeda7c6838e
+2	11	1682386093657255237	/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug/CalorieCounter_autogen/mocs_compilation.cpp	f16baeeda7c6838e
+12	1196	1682386094840255949	CMakeFiles/CalorieCounter.dir/mainscreen.cpp.o	7ef5f24ef3ee6588
+1196	1407	1682386095049256074	CalorieCounter	31b2a3efb57d9e40

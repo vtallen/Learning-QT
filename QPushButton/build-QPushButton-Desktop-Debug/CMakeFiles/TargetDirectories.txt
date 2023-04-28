@@ -1,0 +1,9 @@
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/QPushButton.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/install.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/install/local.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/QPushButton_autogen_timestamp_deps.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/CMakeFiles/QPushButton_autogen.dir

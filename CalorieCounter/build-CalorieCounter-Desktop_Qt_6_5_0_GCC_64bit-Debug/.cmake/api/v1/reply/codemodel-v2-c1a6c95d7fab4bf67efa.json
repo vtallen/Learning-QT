@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0101ec8586637ff176f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CalorieCounter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CalorieCounter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalorieCounter-Debug-80d2fda64386bfeeb2f5.json",
+					"name" : "CalorieCounter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CalorieCounter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalorieCounter_autogen-Debug-1f780b44acf17d7a5619.json",
+					"name" : "CalorieCounter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CalorieCounter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalorieCounter_autogen_timestamp_deps-Debug-531fc2bdede3e4ac265a.json",
+					"name" : "CalorieCounter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/build-CalorieCounter-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/vtallen/Nextcloud/Programming/QT/CalorieCounter/CalorieCounter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

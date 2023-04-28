@@ -1,0 +1,21 @@
+# ninja log v5
+1	215	1682501835875124034	MessageBox_autogen/timestamp	c096cda2893660bd
+1	215	1682501835875124034	MessageBox_autogen/mocs_compilation.cpp	c096cda2893660bd
+1	215	1682501835875124034	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug/MessageBox_autogen/timestamp	c096cda2893660bd
+1	215	1682501835875124034	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug/MessageBox_autogen/mocs_compilation.cpp	c096cda2893660bd
+215	1899	1682501837561128390	CMakeFiles/MessageBox.dir/MessageBox_autogen/mocs_compilation.cpp.o	1cd8da5171c4dd7b
+216	1926	1682501837588128460	CMakeFiles/MessageBox.dir/widget.cpp.o	3a2fd1445acf6888
+216	1953	1682501837615128529	CMakeFiles/MessageBox.dir/main.cpp.o	5e199923e968fbce
+1953	2182	1682501837842129116	MessageBox	a680673d6667137f
+3	13	1682501896133282216	MessageBox_autogen/timestamp	c096cda2893660bd
+3	13	1682501896133282216	MessageBox_autogen/mocs_compilation.cpp	c096cda2893660bd
+3	13	1682501896133282216	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug/MessageBox_autogen/timestamp	c096cda2893660bd
+3	13	1682501896133282216	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug/MessageBox_autogen/mocs_compilation.cpp	c096cda2893660bd
+14	1135	1682501897255285685	CMakeFiles/MessageBox.dir/widget.cpp.o	3a2fd1445acf6888
+1135	1374	1682501897491286415	MessageBox	a680673d6667137f
+3	15	1682502230564688633	MessageBox_autogen/timestamp	c096cda2893660bd
+3	15	1682502230564688633	MessageBox_autogen/mocs_compilation.cpp	c096cda2893660bd
+3	15	1682502230564688633	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug/MessageBox_autogen/timestamp	c096cda2893660bd
+3	15	1682502230564688633	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QMessageBox/build-MessageBox-Desktop_Qt_6_5_0_GCC_64bit-Debug/MessageBox_autogen/mocs_compilation.cpp	c096cda2893660bd
+16	2635	1682502233181692600	CMakeFiles/MessageBox.dir/widget.cpp.o	3a2fd1445acf6888
+2635	3381	1682502233915693713	MessageBox	a680673d6667137f

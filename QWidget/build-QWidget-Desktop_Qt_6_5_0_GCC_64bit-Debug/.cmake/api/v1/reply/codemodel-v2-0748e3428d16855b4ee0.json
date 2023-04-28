@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e6b59ca5b4924e699d37.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QWidget-Debug-6fef6e736e88282313fa.json",
+					"name" : "QWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QWidget_autogen-Debug-29900d7cdcb84bc7783d.json",
+					"name" : "QWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QWidget_autogen_timestamp_deps-Debug-8ecff4cd0308573980ba.json",
+					"name" : "QWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/QWidget/build-QWidget-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/QWidget/QWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

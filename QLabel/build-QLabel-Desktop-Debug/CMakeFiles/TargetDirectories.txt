@@ -1,0 +1,9 @@
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/QLabel.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/install.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/install/local.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/QLabel_autogen_timestamp_deps.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/CMakeFiles/QLabel_autogen.dir

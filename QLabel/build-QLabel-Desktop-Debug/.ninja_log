@@ -1,0 +1,9 @@
+# ninja log v5
+2	206	1682595991693950195	QLabel_autogen/timestamp	318e2dd80c4abc23
+2	206	1682595991693950195	QLabel_autogen/mocs_compilation.cpp	318e2dd80c4abc23
+2	206	1682595991693950195	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/QLabel_autogen/timestamp	318e2dd80c4abc23
+2	206	1682595991693950195	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QLabel/build-QLabel-Desktop-Debug/QLabel_autogen/mocs_compilation.cpp	318e2dd80c4abc23
+207	1307	1682595992795928693	CMakeFiles/QLabel.dir/QLabel_autogen/mocs_compilation.cpp.o	b3a120ab04fabf55
+207	1325	1682595992814928323	CMakeFiles/QLabel.dir/main.cpp.o	c460f4c0e00b353
+207	1331	1682595992820928206	CMakeFiles/QLabel.dir/widget.cpp.o	d8c50945e6ae1529
+1331	1540	1682595993027924167	QLabel	a915c2bfd52ab758

@@ -1,0 +1,21 @@
+# ninja log v5
+1	183	1682646558000000000	QGridLayout_autogen/timestamp	6279384259f7dcf2
+1	183	1682646558000000000	QGridLayout_autogen/mocs_compilation.cpp	6279384259f7dcf2
+1	183	1682646558000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QGridLayout/build-QGridLayout-Qt_6_4_2_for_macOS-Debug/QGridLayout_autogen/timestamp	6279384259f7dcf2
+1	183	1682646558000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QGridLayout/build-QGridLayout-Qt_6_4_2_for_macOS-Debug/QGridLayout_autogen/mocs_compilation.cpp	6279384259f7dcf2
+183	652	1682646558000000000	CMakeFiles/QGridLayout.dir/QGridLayout_autogen/mocs_compilation.cpp.o	d28862e6d4b50282
+183	670	1682646558000000000	CMakeFiles/QGridLayout.dir/main.cpp.o	d889140da6ac1265
+183	694	1682646558000000000	CMakeFiles/QGridLayout.dir/widget.cpp.o	988cccf66ccc71ca
+694	825	1682646558000000000	QGridLayout.app/Contents/MacOS/QGridLayout	ae8cfca151038fc1
+6	30	1682646784000000000	QGridLayout_autogen/timestamp	6279384259f7dcf2
+6	30	1682646784000000000	QGridLayout_autogen/mocs_compilation.cpp	6279384259f7dcf2
+6	30	1682646784000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QGridLayout/build-QGridLayout-Qt_6_4_2_for_macOS-Debug/QGridLayout_autogen/timestamp	6279384259f7dcf2
+6	30	1682646784000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QGridLayout/build-QGridLayout-Qt_6_4_2_for_macOS-Debug/QGridLayout_autogen/mocs_compilation.cpp	6279384259f7dcf2
+33	510	1682646785000000000	CMakeFiles/QGridLayout.dir/widget.cpp.o	988cccf66ccc71ca
+510	621	1682646785000000000	QGridLayout.app/Contents/MacOS/QGridLayout	ae8cfca151038fc1
+5	37	1682646871000000000	QGridLayout_autogen/timestamp	6279384259f7dcf2
+5	37	1682646871000000000	QGridLayout_autogen/mocs_compilation.cpp	6279384259f7dcf2
+5	37	1682646871000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QGridLayout/build-QGridLayout-Qt_6_4_2_for_macOS-Debug/QGridLayout_autogen/timestamp	6279384259f7dcf2
+5	37	1682646871000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QGridLayout/build-QGridLayout-Qt_6_4_2_for_macOS-Debug/QGridLayout_autogen/mocs_compilation.cpp	6279384259f7dcf2
+39	503	1682646871000000000	CMakeFiles/QGridLayout.dir/widget.cpp.o	988cccf66ccc71ca
+503	609	1682646871000000000	QGridLayout.app/Contents/MacOS/QGridLayout	ae8cfca151038fc1

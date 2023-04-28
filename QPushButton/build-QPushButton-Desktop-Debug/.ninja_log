@@ -1,0 +1,27 @@
+# ninja log v5
+1	220	1682544729001068242	QPushButton_autogen/timestamp	ddc94961649e5b68
+1	220	1682544729001068242	QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+221	1459	1682544730242067902	CMakeFiles/QPushButton.dir/main.cpp.o	561e19cb8d797f6b
+1	220	1682544729001068242	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/timestamp	ddc94961649e5b68
+1	220	1682544729001068242	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+221	1496	1682544730280067892	CMakeFiles/QPushButton.dir/widget.cpp.o	85f0d533d7a455bb
+221	1415	1682544730198067914	CMakeFiles/QPushButton.dir/QPushButton_autogen/mocs_compilation.cpp.o	256e29933e1e036f
+1496	1739	1682544730519067826	QPushButton	9f093945c9bec729
+6	27	1682544965349346684	QPushButton_autogen/timestamp	ddc94961649e5b68
+6	27	1682544965349346684	QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+6	27	1682544965349346684	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/timestamp	ddc94961649e5b68
+6	27	1682544965349346684	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+29	4587	1682544969907356545	CMakeFiles/QPushButton.dir/widget.cpp.o	85f0d533d7a455bb
+4588	5111	1682544970425357666	QPushButton	9f093945c9bec729
+5	22	1682545204455789138	QPushButton_autogen/timestamp	ddc94961649e5b68
+5	22	1682545204455789138	QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+5	22	1682545204455789138	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/timestamp	ddc94961649e5b68
+5	22	1682545204455789138	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+25	4770	1682545209201796214	CMakeFiles/QPushButton.dir/widget.cpp.o	85f0d533d7a455bb
+4770	5303	1682545209729797001	QPushButton	9f093945c9bec729
+2	11	1682545238991817714	QPushButton_autogen/timestamp	ddc94961649e5b68
+2	11	1682545238991817714	QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+2	11	1682545238991817714	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/timestamp	ddc94961649e5b68
+2	11	1682545238991817714	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QPushButton/build-QPushButton-Desktop-Debug/QPushButton_autogen/mocs_compilation.cpp	ddc94961649e5b68
+12	1600	1682545240578817958	CMakeFiles/QPushButton.dir/widget.cpp.o	85f0d533d7a455bb
+1600	1899	1682545240872818003	QPushButton	9f093945c9bec729

@@ -1,0 +1,10 @@
+# ninja log v5
+0	245	1682550823000000000	CalorieCounter_autogen/timestamp	b649147a55393b3a
+0	245	1682550823000000000	CalorieCounter_autogen/mocs_compilation.cpp	b649147a55393b3a
+0	245	1682550823000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/CalorieCounter/build-CalorieCounter-Qt_6_4_2_for_macOS-Debug/CalorieCounter_autogen/timestamp	b649147a55393b3a
+0	245	1682550823000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/CalorieCounter/build-CalorieCounter-Qt_6_4_2_for_macOS-Debug/CalorieCounter_autogen/mocs_compilation.cpp	b649147a55393b3a
+245	833	1682550824000000000	CMakeFiles/CalorieCounter.dir/person.cpp.o	5cd8507b58f3c757
+245	887	1682550824000000000	CMakeFiles/CalorieCounter.dir/main.cpp.o	8b83c19f9f534016
+245	912	1682550824000000000	CMakeFiles/CalorieCounter.dir/CalorieCounter_autogen/mocs_compilation.cpp.o	c7e4a708e9e83db4
+245	1092	1682550824000000000	CMakeFiles/CalorieCounter.dir/mainscreen.cpp.o	769d93dc0b664f90
+1092	1251	1682550824000000000	CalorieCounter.app/Contents/MacOS/CalorieCounter	44c74a067f64b44a
