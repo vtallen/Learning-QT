@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug/MenusToolbarsActions_autogen",
+	"CMAKE_BINARY_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions",
+	"CMAKE_SOURCE_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions",
+	"INCLUDE_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug/MenusToolbarsActions_autogen/include",
+	"INPUTS" : 
+	[
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/pasteIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/copyIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/aboutQtIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/aboutIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/cutIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/redoIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/quitIcon.png",
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/images/undoIcon.png"
+	],
+	"LOCK_FILE" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug/CMakeFiles/MenusToolbarsActions_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/vincentallen/Qt/6.4.2/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug/CMakeFiles/MenusToolbarsActions_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions/resources.qrc",
+	"VERBOSITY" : 0
+}

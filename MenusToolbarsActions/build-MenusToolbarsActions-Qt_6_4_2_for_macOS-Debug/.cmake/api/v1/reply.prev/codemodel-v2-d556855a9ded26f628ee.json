@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-915fb56dbe177a9f3cb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MenusToolbarsActions",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MenusToolbarsActions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MenusToolbarsActions-Debug-4754def842996c902716.json",
+					"name" : "MenusToolbarsActions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MenusToolbarsActions_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MenusToolbarsActions_autogen-Debug-7df007e1f833cf7680ac.json",
+					"name" : "MenusToolbarsActions_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MenusToolbarsActions_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MenusToolbarsActions_autogen_timestamp_deps-Debug-c8d539172f102114b402.json",
+					"name" : "MenusToolbarsActions_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/build-MenusToolbarsActions-Qt_6_4_2_for_macOS-Debug",
+		"source" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/MenusToolbarsActions/MenusToolbarsActions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
