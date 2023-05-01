@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-e7b5c12d0ef43805fd4e.json",
+					"jsonFile" : "directory-.-Debug-48a486f24b2cd9e9a897.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "QDialog::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-QDialog-Debug-c1b424923d54199ba6f1.json",
+					"jsonFile" : "target-QDialog-Debug-0a63f57836e8bccd81ea.json",
 					"name" : "QDialog",
 					"projectIndex" : 0
 				},

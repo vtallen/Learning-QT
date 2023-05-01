@@ -45,7 +45,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 23,
+				"line" : 26,
 				"parent" : 0
 			},
 			{
@@ -69,13 +69,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 55,
+				"line" : 58,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 45,
+				"line" : 48,
 				"parent" : 0
 			},
 			{
@@ -290,18 +290,19 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "QDialog_autogen::@6890427a1f51a3e7e1df"
+			"id" : "QDialog_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "QDialog_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"backtrace" : 0,
+			"id" : "QDialog_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "QDialog::@6890427a1f51a3e7e1df",
@@ -405,7 +406,8 @@
 			[
 				0,
 				1,
-				2
+				2,
+				6
 			]
 		},
 		{
@@ -413,7 +415,9 @@
 			"sourceIndexes" : 
 			[
 				3,
-				5
+				5,
+				8,
+				9
 			]
 		},
 		{
@@ -421,14 +425,15 @@
 			"sourceIndexes" : 
 			[
 				4,
-				6
+				7,
+				10
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				7
+				11
 			]
 		}
 	],
@@ -464,9 +469,31 @@
 			"sourceGroupIndex" : 2
 		},
 		{
+			"backtrace" : 4,
+			"path" : "infodialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "infodialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "infodialog.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/QDialog/build-QDialog-Qt_6_4_2_for_macOS-Debug/QDialog_autogen/include/ui_widget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/QDialog/build-QDialog-Qt_6_4_2_for_macOS-Debug/QDialog_autogen/include/ui_infodialog.h",
 			"sourceGroupIndex" : 1
 		},
 		{
