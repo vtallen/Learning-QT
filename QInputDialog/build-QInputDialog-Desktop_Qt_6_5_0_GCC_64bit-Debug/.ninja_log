@@ -1,0 +1,25 @@
+# ninja log v5
+0	231	1683052814844510695	QInputDialog_autogen/timestamp	4b42346293af71b0
+0	231	1683052814844510695	QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+0	231	1683052814844510695	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/timestamp	4b42346293af71b0
+0	231	1683052814844510695	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+231	1379	1683052815997508307	CMakeFiles/QInputDialog.dir/QInputDialog_autogen/mocs_compilation.cpp.o	324e9f6c58293ea7
+231	1695	1683052816314507650	CMakeFiles/QInputDialog.dir/main.cpp.o	6b9a01cd00731f6d
+1	25	1683052825558488497	QInputDialog_autogen/timestamp	4b42346293af71b0
+1	25	1683052825558488497	QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+1	25	1683052825558488497	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/timestamp	4b42346293af71b0
+1	25	1683052825558488497	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+26	1271	1683052826803485918	CMakeFiles/QInputDialog.dir/widget.cpp.o	a07373535163ae61
+1271	1552	1683052827083485338	QInputDialog	8fd8ddab0f1ef286
+2	24	1683052853555430491	QInputDialog_autogen/timestamp	4b42346293af71b0
+2	24	1683052853555430491	QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+2	24	1683052853555430491	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/timestamp	4b42346293af71b0
+2	24	1683052853555430491	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+25	1280	1683052854811427889	CMakeFiles/QInputDialog.dir/widget.cpp.o	a07373535163ae61
+1280	1509	1683052855038427418	QInputDialog	8fd8ddab0f1ef286
+1	23	1683052886741361737	QInputDialog_autogen/timestamp	4b42346293af71b0
+1	23	1683052886741361737	QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+1	23	1683052886741361737	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/timestamp	4b42346293af71b0
+1	23	1683052886741361737	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QInputDialog/build-QInputDialog-Desktop_Qt_6_5_0_GCC_64bit-Debug/QInputDialog_autogen/mocs_compilation.cpp	4b42346293af71b0
+24	1278	1683052887996359137	CMakeFiles/QInputDialog.dir/widget.cpp.o	a07373535163ae61
+1278	1509	1683052888225358662	QInputDialog	8fd8ddab0f1ef286
