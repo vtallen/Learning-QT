@@ -1,0 +1,9 @@
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/QDialogButtonBox.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/list_install_components.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/install.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/install/local.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/install/strip.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/QDialogButtonBox_autogen_timestamp_deps.dir
+/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/CMakeFiles/QDialogButtonBox_autogen.dir

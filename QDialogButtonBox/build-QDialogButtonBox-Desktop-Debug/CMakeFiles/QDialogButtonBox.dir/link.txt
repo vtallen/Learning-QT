@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/QDialogButtonBox.dir/QDialogButtonBox_autogen/mocs_compilation.cpp.o CMakeFiles/QDialogButtonBox.dir/main.cpp.o CMakeFiles/QDialogButtonBox.dir/widget.cpp.o CMakeFiles/QDialogButtonBox.dir/infodialog.cpp.o -o QDialogButtonBox  /usr/lib64/libQt5Widgets.so.5.15.9 /usr/lib64/libQt5Gui.so.5.15.9 /usr/lib64/libQt5Core.so.5.15.9 

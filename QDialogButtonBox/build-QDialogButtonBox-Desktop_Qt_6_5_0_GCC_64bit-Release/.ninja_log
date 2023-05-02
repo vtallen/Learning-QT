@@ -1,0 +1,10 @@
+# ninja log v5
+0	229	1682987399042630935	QDialogButtonBox_autogen/timestamp	8e5e9573b67e130c
+0	229	1682987399042630935	QDialogButtonBox_autogen/mocs_compilation.cpp	8e5e9573b67e130c
+0	229	1682987399042630935	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/QDialogButtonBox_autogen/timestamp	8e5e9573b67e130c
+0	229	1682987399042630935	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QDialogButtonBox/build-QDialogButtonBox-Desktop_Qt_6_5_0_GCC_64bit-Release/QDialogButtonBox_autogen/mocs_compilation.cpp	8e5e9573b67e130c
+229	1257	1682987400077631860	CMakeFiles/QDialogButtonBox.dir/main.cpp.o	5de9566e23f0f554
+230	1284	1682987400104631884	CMakeFiles/QDialogButtonBox.dir/widget.cpp.o	14a08345ad1cea6f
+230	1319	1682987400139631915	CMakeFiles/QDialogButtonBox.dir/QDialogButtonBox_autogen/mocs_compilation.cpp.o	d842b2c120a283b1
+230	1371	1682987400191631961	CMakeFiles/QDialogButtonBox.dir/infodialog.cpp.o	e6c0dc888a55e67c
+1371	1572	1682987400390632139	QDialogButtonBox	f06baa650df091d5

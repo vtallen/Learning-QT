@@ -1,0 +1,9 @@
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/SignalSlots.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/install.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/SignalSlots_autogen_timestamp_deps.dir
+/Volumes/External/Nextcloud/Programming/QT/SignalSlots/build-SignalSlots-Qt_6_4_2_for_macOS-Debug/CMakeFiles/SignalSlots_autogen.dir
