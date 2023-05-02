@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/build-ResourcesDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug/ResourcesDemo_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/build-ResourcesDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/build-ResourcesDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo",
+	"CMAKE_SOURCE_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo",
+	"INCLUDE_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/build-ResourcesDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug/ResourcesDemo_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/quitIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/minions.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/pasteIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/copyIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/cut-fr.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/cutIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/redoIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/undoIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/aboutQtIcon.png",
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/images/aboutIcon.png"
+	],
+	"LOCK_FILE" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/build-ResourcesDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/ResourcesDemo_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/vtallen/Qt/6.5.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/build-ResourcesDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/ResourcesDemo_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ResourcesDemo/ResourcesDemo/resources.qrc",
+	"VERBOSITY" : 0
+}
