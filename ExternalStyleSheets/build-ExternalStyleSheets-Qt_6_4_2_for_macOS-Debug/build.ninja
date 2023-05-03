@@ -1,0 +1,270 @@
+## This file contains all the build statements describing the
+# compilation DAG.
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# 
+# Which is the root file.
+# =============================================================================
+
+# =============================================================================
+# Project: ExternalStyleSheets
+# Configurations: Debug
+# =============================================================================
+
+#############################################
+# Minimal version of Ninja required by this file
+
+ninja_required_version = 1.5
+
+
+#############################################
+# Set configuration variable for custom commands.
+
+CONFIGURATION = Debug
+# =============================================================================
+# Include auxiliary files.
+
+
+#############################################
+# Include rules file.
+
+include CMakeFiles/rules.ninja
+
+# =============================================================================
+
+#############################################
+# Logical path to working directory; prefix for absolute paths.
+
+cmake_ninja_workdir = /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/
+# =============================================================================
+# Object build statements for EXECUTABLE target ExternalStyleSheets
+
+
+#############################################
+# Order-only phony target for ExternalStyleSheets
+
+build cmake_object_order_depends_target_ExternalStyleSheets: phony || ExternalStyleSheets_autogen ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp ExternalStyleSheets_autogen/mocs_compilation.cpp ExternalStyleSheets_autogen/timestamp ExternalStyleSheets_autogen_timestamp_deps
+
+build CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/mocs_compilation.cpp.o: CXX_COMPILER__ExternalStyleSheets_Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_ExternalStyleSheets
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/mocs_compilation.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17
+  INCLUDES = -I/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Headers -iframework /Users/vincentallen/Qt/6.4.2/macos/lib -isystem /Users/vincentallen/Qt/6.4.2/macos/mkspecs/macx-clang -isystem /Users/vincentallen/Qt/6.4.2/macos/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/ExternalStyleSheets.dir
+  OBJECT_FILE_DIR = CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen
+
+build CMakeFiles/ExternalStyleSheets.dir/main.cpp.o: CXX_COMPILER__ExternalStyleSheets_Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/main.cpp || cmake_object_order_depends_target_ExternalStyleSheets
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/ExternalStyleSheets.dir/main.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17
+  INCLUDES = -I/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Headers -iframework /Users/vincentallen/Qt/6.4.2/macos/lib -isystem /Users/vincentallen/Qt/6.4.2/macos/mkspecs/macx-clang -isystem /Users/vincentallen/Qt/6.4.2/macos/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/ExternalStyleSheets.dir
+  OBJECT_FILE_DIR = CMakeFiles/ExternalStyleSheets.dir
+
+build CMakeFiles/ExternalStyleSheets.dir/widget.cpp.o: CXX_COMPILER__ExternalStyleSheets_Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/widget.cpp || cmake_object_order_depends_target_ExternalStyleSheets
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/ExternalStyleSheets.dir/widget.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17
+  INCLUDES = -I/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Headers -iframework /Users/vincentallen/Qt/6.4.2/macos/lib -isystem /Users/vincentallen/Qt/6.4.2/macos/mkspecs/macx-clang -isystem /Users/vincentallen/Qt/6.4.2/macos/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/ExternalStyleSheets.dir
+  OBJECT_FILE_DIR = CMakeFiles/ExternalStyleSheets.dir
+
+build CMakeFiles/ExternalStyleSheets.dir/suredialog.cpp.o: CXX_COMPILER__ExternalStyleSheets_Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/suredialog.cpp || cmake_object_order_depends_target_ExternalStyleSheets
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/ExternalStyleSheets.dir/suredialog.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17
+  INCLUDES = -I/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Headers -iframework /Users/vincentallen/Qt/6.4.2/macos/lib -isystem /Users/vincentallen/Qt/6.4.2/macos/mkspecs/macx-clang -isystem /Users/vincentallen/Qt/6.4.2/macos/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/ExternalStyleSheets.dir
+  OBJECT_FILE_DIR = CMakeFiles/ExternalStyleSheets.dir
+
+build CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp.o: CXX_COMPILER__ExternalStyleSheets_Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp || cmake_object_order_depends_target_ExternalStyleSheets
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17
+  INCLUDES = -I/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Headers -iframework /Users/vincentallen/Qt/6.4.2/macos/lib -isystem /Users/vincentallen/Qt/6.4.2/macos/mkspecs/macx-clang -isystem /Users/vincentallen/Qt/6.4.2/macos/include -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Headers -isystem /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/ExternalStyleSheets.dir
+  OBJECT_FILE_DIR = CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/EWIEGA46WW
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ExternalStyleSheets
+
+
+#############################################
+# Link the executable ExternalStyleSheets.app/Contents/MacOS/ExternalStyleSheets
+
+build ExternalStyleSheets.app/Contents/MacOS/ExternalStyleSheets: CXX_EXECUTABLE_LINKER__ExternalStyleSheets_Debug CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/mocs_compilation.cpp.o CMakeFiles/ExternalStyleSheets.dir/main.cpp.o CMakeFiles/ExternalStyleSheets.dir/widget.cpp.o CMakeFiles/ExternalStyleSheets.dir/suredialog.cpp.o CMakeFiles/ExternalStyleSheets.dir/ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp.o | /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Versions/A/QtGui /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Versions/A/QtCore || ExternalStyleSheets_autogen ExternalStyleSheets_autogen_timestamp_deps
+  FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
+  LINK_LIBRARIES = -Wl,-rpath,/Users/vincentallen/Qt/6.4.2/macos/lib  /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets  /Users/vincentallen/Qt/6.4.2/macos/lib/QtGui.framework/Versions/A/QtGui  /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Versions/A/QtCore  -framework IOKit  -framework DiskArbitration  -Xlinker -framework -Xlinker OpenGL  -Xlinker -framework -Xlinker AGL  -framework AppKit  -framework ImageIO  -framework Metal
+  LINK_PATH = -F/Users/vincentallen/Qt/6.4.2/macos/lib
+  OBJECT_DIR = CMakeFiles/ExternalStyleSheets.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = ExternalStyleSheets.app/Contents/MacOS/ExternalStyleSheets
+  TARGET_PDB = ExternalStyleSheets.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/ccmake -S/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets -B/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug
+  DESC = Running CMake cache editor...
+  pool = console
+  restat = 1
+
+build edit_cache: phony CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake --regenerate-during-build -S/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets -B/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build rebuild_cache: phony CMakeFiles/rebuild_cache.util
+
+
+#############################################
+# Utility command for list_install_components
+
+build list_install_components: phony
+
+
+#############################################
+# Utility command for install
+
+build CMakeFiles/install.util: CUSTOM_COMMAND all
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -P cmake_install.cmake
+  DESC = Install the project...
+  pool = console
+  restat = 1
+
+build install: phony CMakeFiles/install.util
+
+
+#############################################
+# Utility command for install/local
+
+build CMakeFiles/install/local.util: CUSTOM_COMMAND all
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+  DESC = Installing only the local directory...
+  pool = console
+  restat = 1
+
+build install/local: phony CMakeFiles/install/local.util
+
+
+#############################################
+# Utility command for install/strip
+
+build CMakeFiles/install/strip.util: CUSTOM_COMMAND all
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+  DESC = Installing the project stripped...
+  pool = console
+  restat = 1
+
+build install/strip: phony CMakeFiles/install/strip.util
+
+
+#############################################
+# Utility command for ExternalStyleSheets_autogen_timestamp_deps
+
+build ExternalStyleSheets_autogen_timestamp_deps: phony CMakeFiles/ExternalStyleSheets_autogen_timestamp_deps
+
+
+#############################################
+# Utility command for ExternalStyleSheets_autogen
+
+build ExternalStyleSheets_autogen: phony CMakeFiles/ExternalStyleSheets_autogen ExternalStyleSheets_autogen/include/ui_widget.h ExternalStyleSheets_autogen/include/ui_suredialog.h ExternalStyleSheets_autogen/timestamp ExternalStyleSheets_autogen/mocs_compilation.cpp ExternalStyleSheets_autogen_timestamp_deps
+
+
+#############################################
+# Custom command for ExternalStyleSheets_autogen/timestamp
+
+build ExternalStyleSheets_autogen/timestamp ExternalStyleSheets_autogen/mocs_compilation.cpp | ${cmake_ninja_workdir}ExternalStyleSheets_autogen/timestamp ${cmake_ninja_workdir}ExternalStyleSheets_autogen/mocs_compilation.cpp: CUSTOM_COMMAND /Users/vincentallen/Qt/6.4.2/macos/./libexec/moc /Users/vincentallen/Qt/6.4.2/macos/./libexec/uic || ExternalStyleSheets_autogen_timestamp_deps
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E cmake_autogen /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/CMakeFiles/ExternalStyleSheets_autogen.dir/AutogenInfo.json Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E touch /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/timestamp && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E cmake_transform_depfile Ninja gccdepfile /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/deps /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/CMakeFiles/d/a27428b22c89534280053fa73e885fb7debd1d6217af0a9cec90a441a399e031.d
+  DESC = Automatic MOC and UIC for target ExternalStyleSheets
+  depfile = /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/CMakeFiles/d/a27428b22c89534280053fa73e885fb7debd1d6217af0a9cec90a441a399e031.d
+  restat = 1
+
+
+#############################################
+# Custom command for ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp
+
+build ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp | ${cmake_ninja_workdir}ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp: CUSTOM_COMMAND /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/resources.qrc CMakeFiles/ExternalStyleSheets_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/styles/style.css /Users/vincentallen/Qt/6.4.2/macos/./libexec/rcc || ExternalStyleSheets_autogen ExternalStyleSheets_autogen_timestamp_deps
+  COMMAND = cd /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug && /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/bin/cmake -E cmake_autorcc /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/CMakeFiles/ExternalStyleSheets_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json Debug
+  DESC = Automatic RCC for resources.qrc
+  restat = 1
+
+
+#############################################
+# Phony custom command for CMakeFiles/ExternalStyleSheets_autogen_timestamp_deps
+
+build CMakeFiles/ExternalStyleSheets_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/ExternalStyleSheets_autogen_timestamp_deps: phony /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/vincentallen/Qt/6.4.2/macos/./libexec/uic /Users/vincentallen/Qt/6.4.2/macos/./libexec/moc /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Versions/A/QtCore
+
+
+#############################################
+# Phony custom command for CMakeFiles/ExternalStyleSheets_autogen
+
+build CMakeFiles/ExternalStyleSheets_autogen ExternalStyleSheets_autogen/include/ui_widget.h ExternalStyleSheets_autogen/include/ui_suredialog.h | ${cmake_ninja_workdir}CMakeFiles/ExternalStyleSheets_autogen ${cmake_ninja_workdir}ExternalStyleSheets_autogen/include/ui_widget.h ${cmake_ninja_workdir}ExternalStyleSheets_autogen/include/ui_suredialog.h: phony ExternalStyleSheets_autogen/timestamp || ExternalStyleSheets_autogen_timestamp_deps
+
+# =============================================================================
+# Target aliases.
+
+build ExternalStyleSheets: phony ExternalStyleSheets.app/Contents/MacOS/ExternalStyleSheets
+
+# =============================================================================
+# Folder targets.
+
+# =============================================================================
+
+#############################################
+# Folder: /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug
+
+build all: phony ExternalStyleSheets.app/Contents/MacOS/ExternalStyleSheets
+
+# =============================================================================
+# Built-in targets
+
+
+#############################################
+# Re-run CMake if any of its inputs changed.
+
+build build.ninja: RERUN_CMAKE | /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/FindWrapAtomic.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/FindWrapOpenGL.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6Config.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6ConfigExtras.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6ConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6Dependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6Targets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6VersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtFeature.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtFeatureCommon.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicAppleHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicTestHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/macos/MacOSXBundleInfo.plist.in /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckLibraryExists.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/AppleClang-CXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/Clang.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/GNU.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindOpenGL.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindPackageMessage.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindThreads.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/GNUInstallDirs.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/MacroAddFileDependencies.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Apple-AppleClang-CXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Apple-Clang-CXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Apple-Clang.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Darwin.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/UnixPaths.cmake /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/CMakeLists.txt /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/resources.qrc CMakeCache.txt CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
+  pool = console
+
+
+#############################################
+# A missing CMake input file is not an error.
+
+build /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/FindWrapAtomic.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/FindWrapOpenGL.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6Config.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6ConfigExtras.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6ConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6Dependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6Targets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/Qt6VersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtFeature.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtFeatureCommon.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicAppleHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicPluginHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicTargetHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicTestHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6/macos/MacOSXBundleInfo.plist.in /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBus/Qt6DBusVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6DBusTools/Qt6DBusToolsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake /Users/vincentallen/Qt/6.4.2/macos/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeCXXInformation.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeGenericSystem.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/CheckLibraryExists.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/AppleClang-CXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/Clang.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Compiler/GNU.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindOpenGL.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindPackageMessage.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/FindThreads.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/GNUInstallDirs.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/MacroAddFileDependencies.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Apple-AppleClang-CXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Apple-Clang-CXX.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Apple-Clang.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/Darwin.cmake /Users/vincentallen/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.24/Modules/Platform/UnixPaths.cmake /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/CMakeLists.txt /Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/resources.qrc CMakeCache.txt CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
+
+
+#############################################
+# Clean additional files.
+
+build CMakeFiles/clean.additional: CLEAN_ADDITIONAL
+  CONFIG = Debug
+
+
+#############################################
+# Clean all the built files.
+
+build clean: CLEAN CMakeFiles/clean.additional
+
+
+#############################################
+# Print all primary targets available.
+
+build help: HELP
+
+
+#############################################
+# Make the all target the default.
+
+default all

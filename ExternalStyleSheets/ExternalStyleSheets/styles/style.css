@@ -1,0 +1,11 @@
+QPushButton[text="Submit"]{
+	background-color: gray;
+}
+
+QPushButton#yesButton{
+	background-color: green;
+}
+
+QPushButton#noButton{
+	background-color: red;
+}

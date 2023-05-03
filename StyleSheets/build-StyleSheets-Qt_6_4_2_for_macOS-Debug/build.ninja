@@ -188,7 +188,7 @@ build StyleSheets_autogen/timestamp StyleSheets_autogen/mocs_compilation.cpp | $
 #############################################
 # Phony custom command for CMakeFiles/StyleSheets_autogen_timestamp_deps
 
-build CMakeFiles/StyleSheets_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/StyleSheets_autogen_timestamp_deps: phony /Users/vincentallen/Qt/6.4.2/macos/./libexec/moc /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Versions/A/QtCore /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/vincentallen/Qt/6.4.2/macos/./libexec/uic
+build CMakeFiles/StyleSheets_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/StyleSheets_autogen_timestamp_deps: phony /Users/vincentallen/Qt/6.4.2/macos/lib/QtCore.framework/Versions/A/QtCore /Users/vincentallen/Qt/6.4.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/vincentallen/Qt/6.4.2/macos/./libexec/uic /Users/vincentallen/Qt/6.4.2/macos/./libexec/moc
 
 
 #############################################
