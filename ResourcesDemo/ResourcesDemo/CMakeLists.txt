@@ -17,7 +17,10 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+<<<<<<< HEAD
         resources.qrc
+=======
+>>>>>>> 3bd6b4d (Finished the QPalette and StyleSheet lectures. Created 2 applications to experiment with setting styles on both components and the application as a whole)
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
