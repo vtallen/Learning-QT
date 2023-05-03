@@ -1,0 +1,10 @@
+# ninja log v5
+0	213	1683153622233353723	StyleSheets_autogen/timestamp	f19afe75470e28a9
+0	213	1683153622233353723	StyleSheets_autogen/mocs_compilation.cpp	f19afe75470e28a9
+0	213	1683153622233353723	/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/timestamp	f19afe75470e28a9
+0	213	1683153622233353723	/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/mocs_compilation.cpp	f19afe75470e28a9
+213	1334	1683153623360353988	CMakeFiles/StyleSheets.dir/StyleSheets_autogen/mocs_compilation.cpp.o	a7b9e43c6580870f
+213	1356	1683153623382353993	CMakeFiles/StyleSheets.dir/main.cpp.o	5d896643981bc7bd
+213	1374	1683153623400353998	CMakeFiles/StyleSheets.dir/somedialog.cpp.o	de2b7c1e1942f807
+213	1444	1683153623469354014	CMakeFiles/StyleSheets.dir/widget.cpp.o	824705a963f57a6e
+1444	1665	1683153623688354065	StyleSheets	25a0e75651b92f63
