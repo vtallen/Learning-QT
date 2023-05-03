@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen",
+	"CMAKE_BINARY_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets",
+	"CMAKE_SOURCE_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets",
+	"INCLUDE_DIR" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/ExternalStyleSheets_autogen/include",
+	"INPUTS" : 
+	[
+		"/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/styles/style.css"
+	],
+	"LOCK_FILE" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/CMakeFiles/ExternalStyleSheets_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/vincentallen/Qt/6.4.2/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Qt_6_4_2_for_macOS-Debug/CMakeFiles/ExternalStyleSheets_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets/resources.qrc",
+	"VERBOSITY" : 0
+}
