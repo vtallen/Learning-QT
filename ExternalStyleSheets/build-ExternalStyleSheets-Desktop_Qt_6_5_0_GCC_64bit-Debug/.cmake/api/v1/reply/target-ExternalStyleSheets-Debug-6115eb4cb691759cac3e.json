@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "StyleSheets"
+			"path" : "ExternalStyleSheets"
 		}
 	],
 	"backtrace" : 4,
@@ -47,7 +47,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 25,
+				"line" : 27,
 				"parent" : 0
 			},
 			{
@@ -71,13 +71,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 57,
+				"line" : 59,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 47,
+				"line" : 49,
 				"parent" : 0
 			},
 			{
@@ -242,7 +242,7 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/include"
+					"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/include"
 				},
 				{
 					"backtrace" : 14,
@@ -285,21 +285,22 @@
 				0,
 				1,
 				2,
-				6
+				6,
+				12
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "StyleSheets_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"id" : "ExternalStyleSheets_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 0,
-			"id" : "StyleSheets_autogen::@6890427a1f51a3e7e1df"
+			"id" : "ExternalStyleSheets_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "StyleSheets::@6890427a1f51a3e7e1df",
+	"id" : "ExternalStyleSheets::@6890427a1f51a3e7e1df",
 	"install" : 
 	{
 		"destinations" : 
@@ -358,8 +359,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "StyleSheets",
-	"nameOnDisk" : "StyleSheets",
+	"name" : "ExternalStyleSheets",
+	"nameOnDisk" : "ExternalStyleSheets",
 	"paths" : 
 	{
 		"build" : ".",
@@ -374,7 +375,8 @@
 				0,
 				1,
 				2,
-				6
+				6,
+				12
 			]
 		},
 		{
@@ -383,8 +385,8 @@
 			[
 				3,
 				5,
-				8,
-				9
+				9,
+				10
 			]
 		},
 		{
@@ -393,14 +395,16 @@
 			[
 				4,
 				7,
-				10
+				8,
+				11
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				11
+				13,
+				14
 			]
 		}
 	],
@@ -410,7 +414,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/mocs_compilation.cpp",
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -437,42 +441,60 @@
 		},
 		{
 			"backtrace" : 4,
-			"path" : "somedialog.h",
+			"path" : "suredialog.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"compileGroupIndex" : 0,
-			"path" : "somedialog.cpp",
+			"path" : "suredialog.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 4,
-			"path" : "somedialog.ui",
+			"path" : "suredialog.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"path" : "resources.qrc",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/include/ui_widget.h",
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/include/ui_widget.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/include/ui_somedialog.h",
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/include/ui_suredialog.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/timestamp",
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/timestamp",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
+			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/StyleSheets/build-StyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/StyleSheets_autogen/timestamp.rule",
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug/ExternalStyleSheets_autogen/EWIEGA46WW/qrc_resources.cpp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],

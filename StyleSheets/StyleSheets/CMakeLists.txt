@@ -19,6 +19,8 @@ set(PROJECT_SOURCES
         widget.ui
 
         somedialog.h somedialog.cpp somedialog.ui
+
+        resources.qrc
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

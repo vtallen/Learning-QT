@@ -9,3 +9,17 @@ QPushButton#yesButton{
 QPushButton#noButton{
 	background-color: red;
 }
+
+QLineEdit{
+	padding: 1px;
+	border: 2px solid gray;
+	border-radius: 8px;
+	color: black;
+	background-color: white;
+	height: 30px;
+}
+
+QWidget#Widget > QLabel {
+	font-weight: bold;
+	font-size: 15px;
+}

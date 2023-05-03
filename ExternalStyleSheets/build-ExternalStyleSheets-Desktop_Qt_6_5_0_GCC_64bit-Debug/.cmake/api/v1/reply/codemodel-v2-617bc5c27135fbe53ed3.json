@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-466cb6b9e5319eade8b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExternalStyleSheets",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExternalStyleSheets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExternalStyleSheets-Debug-6115eb4cb691759cac3e.json",
+					"name" : "ExternalStyleSheets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExternalStyleSheets_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExternalStyleSheets_autogen-Debug-d82bb2b40a53de157a41.json",
+					"name" : "ExternalStyleSheets_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExternalStyleSheets_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExternalStyleSheets_autogen_timestamp_deps-Debug-17964f30036e646f3739.json",
+					"name" : "ExternalStyleSheets_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/build-ExternalStyleSheets-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/ExternalStyleSheets/ExternalStyleSheets"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
