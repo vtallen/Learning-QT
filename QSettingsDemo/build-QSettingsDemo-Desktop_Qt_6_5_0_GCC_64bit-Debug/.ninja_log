@@ -49,3 +49,11 @@
 194	1351	1683239570975984099	CMakeFiles/QSettingsDemo.dir/main.cpp.o	f1254a92c89e44b3
 194	1495	1683239571118983994	CMakeFiles/QSettingsDemo.dir/widget.cpp.o	d06642cfbf6538cd
 1495	1725	1683239571346983827	QSettingsDemo	75ff0c2ee2143573
+0	190	1683239975363594565	QSettingsDemo_autogen/timestamp	940ac3b44de17f97
+0	190	1683239975363594565	QSettingsDemo_autogen/mocs_compilation.cpp	940ac3b44de17f97
+0	190	1683239975363594565	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QSettingsDemo/build-QSettingsDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug/QSettingsDemo_autogen/timestamp	940ac3b44de17f97
+0	190	1683239975363594565	/home/vtallen/Nextcloud/Programming/QT/LearningQT/QSettingsDemo/build-QSettingsDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug/QSettingsDemo_autogen/mocs_compilation.cpp	940ac3b44de17f97
+190	1278	1683239976457592280	CMakeFiles/QSettingsDemo.dir/QSettingsDemo_autogen/mocs_compilation.cpp.o	f3272bb0ac66e34
+190	1300	1683239976478592236	CMakeFiles/QSettingsDemo.dir/main.cpp.o	f1254a92c89e44b3
+190	1435	1683239976613591954	CMakeFiles/QSettingsDemo.dir/widget.cpp.o	d06642cfbf6538cd
+1435	1645	1683239976822591517	QSettingsDemo	75ff0c2ee2143573
