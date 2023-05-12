@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8e58d8dcd11b17acc6ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QListWidgetDemo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QListWidgetDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QListWidgetDemo-Debug-567131c6175f242eac15.json",
+					"name" : "QListWidgetDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QListWidgetDemo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QListWidgetDemo_autogen-Debug-696d3d8a78ff9841a678.json",
+					"name" : "QListWidgetDemo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QListWidgetDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QListWidgetDemo_autogen_timestamp_deps-Debug-644de6607f210b5f5845.json",
+					"name" : "QListWidgetDemo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/QListWidgetDemo/build-QListWidgetDemo-Desktop_Qt_6_5_0_GCC_64bit-Debug",
+		"source" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/QListWidgetDemo/QListWidgetDemo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
