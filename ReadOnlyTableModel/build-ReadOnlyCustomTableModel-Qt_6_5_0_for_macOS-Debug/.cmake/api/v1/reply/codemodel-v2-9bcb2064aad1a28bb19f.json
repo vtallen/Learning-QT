@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-99d2204d3f0b912747f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ReadOnlyCustomTableModel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ReadOnlyCustomTableModel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReadOnlyCustomTableModel-Debug-3b20d24d3edd48f5152b.json",
+					"name" : "ReadOnlyCustomTableModel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReadOnlyCustomTableModel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReadOnlyCustomTableModel_autogen-Debug-9f3238be527bc49faa8d.json",
+					"name" : "ReadOnlyCustomTableModel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ReadOnlyCustomTableModel_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReadOnlyCustomTableModel_autogen_timestamp_deps-Debug-5249eb9a9ada5c303067.json",
+					"name" : "ReadOnlyCustomTableModel_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ReadOnlyTableModel/build-ReadOnlyCustomTableModel-Qt_6_5_0_for_macOS-Debug",
+		"source" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/ReadOnlyTableModel/ReadOnlyCustomTableModel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
