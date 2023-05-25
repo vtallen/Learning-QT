@@ -2,6 +2,8 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <QNetworkAccessManager>
+#include <QNetworkReply>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Widget; }
@@ -14,8 +16,17 @@ class Widget : public QWidget
 public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
+public slots:
+    void dataReadyRead();
+    void dataReadFinished();
+
+private slots:
+    void getDataButtonClicked();
 
 private:
     Ui::Widget *ui;
+    QNetworkAccessManager *m_netManager{};
+    QNetworkReply *m_netReply{};
+    QByteArray *m_dataBuffer{};
 };
 #endif // WIDGET_H
