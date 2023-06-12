@@ -1,0 +1,44 @@
+# ninja log v5
+270	824	1685463029000000000	CMakeFiles/EventPropagation.dir/widget.cpp.o	6f4e4f4858a2b3df
+269	799	1685463029000000000	CMakeFiles/EventPropagation.dir/EventPropagation_autogen/mocs_compilation.cpp.o	a52d00ee584d1fcb
+13	357	1685463145000000000	EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+13	357	1685463145000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+270	775	1685463029000000000	CMakeFiles/EventPropagation.dir/parentlineedit.cpp.o	349cccd4a1c1b29b
+13	357	1685463145000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+465	1561	1685462753000000000	CMakeFiles/EventPropagation.dir/main.cpp.o	a71e767daf4ccc2b
+2	251	1685463145000000000	build.ninja	f284a2ad6dae48f6
+13	357	1685463145000000000	EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+465	1485	1685462753000000000	CMakeFiles/EventPropagation.dir/parentbutton.cpp.o	8c341e3e4a899add
+824	942	1685463029000000000	EventPropagation.app/Contents/MacOS/EventPropagation	415b6d9b459adcf
+466	1461	1685462753000000000	CMakeFiles/EventPropagation.dir/childbutton.cpp.o	a61e19d5e0b38e8d
+8	539	1685463444000000000	EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+8	539	1685463444000000000	EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+8	539	1685463444000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+8	539	1685463444000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+547	1884	1685463445000000000	CMakeFiles/EventPropagation.dir/parentlineedit.cpp.o	349cccd4a1c1b29b
+548	1947	1685463445000000000	CMakeFiles/EventPropagation.dir/childlineedit.cpp.o	142f5f7728cf2dbe
+539	1972	1685463445000000000	CMakeFiles/EventPropagation.dir/EventPropagation_autogen/mocs_compilation.cpp.o	a52d00ee584d1fcb
+545	2000	1685463445000000000	CMakeFiles/EventPropagation.dir/widget.cpp.o	6f4e4f4858a2b3df
+2000	2139	1685463445000000000	EventPropagation.app/Contents/MacOS/EventPropagation	9cb52023731b0958
+5	38	1685463475000000000	EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+5	38	1685463475000000000	EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+5	38	1685463475000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+5	38	1685463475000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+42	1363	1685463476000000000	CMakeFiles/EventPropagation.dir/childlineedit.cpp.o	142f5f7728cf2dbe
+41	1431	1685463476000000000	CMakeFiles/EventPropagation.dir/widget.cpp.o	6f4e4f4858a2b3df
+1431	1575	1685463476000000000	EventPropagation.app/Contents/MacOS/EventPropagation	9cb52023731b0958
+7	74	1685463525000000000	EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+7	74	1685463525000000000	EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+7	74	1685463525000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+7	74	1685463525000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+95	1395	1685463526000000000	CMakeFiles/EventPropagation.dir/widget.cpp.o	6f4e4f4858a2b3df
+109	1589	1685463526000000000	CMakeFiles/EventPropagation.dir/childlineedit.cpp.o	142f5f7728cf2dbe
+104	1590	1685463526000000000	CMakeFiles/EventPropagation.dir/parentlineedit.cpp.o	349cccd4a1c1b29b
+1590	1761	1685463527000000000	EventPropagation.app/Contents/MacOS/EventPropagation	9cb52023731b0958
+6	40	1685463622000000000	EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+6	40	1685463622000000000	EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+6	40	1685463622000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/timestamp	c9b5e6bb09b00f30
+6	40	1685463622000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventPropagation/build-EventPropagation-Qt_6_5_0_for_macOS-Debug/EventPropagation_autogen/mocs_compilation.cpp	c9b5e6bb09b00f30
+48	1319	1685463624000000000	CMakeFiles/EventPropagation.dir/childlineedit.cpp.o	142f5f7728cf2dbe
+48	1354	1685463624000000000	CMakeFiles/EventPropagation.dir/widget.cpp.o	6f4e4f4858a2b3df
+1354	1512	1685463624000000000	EventPropagation.app/Contents/MacOS/EventPropagation	9cb52023731b0958

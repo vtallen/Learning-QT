@@ -1,0 +1,9 @@
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/QObjectEvent.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/install.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/QObjectEvent_autogen_timestamp_deps.dir
+/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObject_event_override/build-QObjectEvent-Qt_6_5_0_for_macOS-Debug/CMakeFiles/QObjectEvent_autogen.dir

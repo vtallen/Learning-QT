@@ -1,0 +1,20 @@
+# ninja log v5
+0	257	1685477012000000000	QNotifyOverride_autogen/timestamp	847a70cae3b326f4
+0	257	1685477012000000000	QNotifyOverride_autogen/mocs_compilation.cpp	847a70cae3b326f4
+3	162	1685477013000000000	build.ninja	dc56d10d365b4f68
+257	818	1685477013000000000	CMakeFiles/QNotifyOverride.dir/QNotifyOverride_autogen/mocs_compilation.cpp.o	76228393eb33b78c
+0	257	1685477012000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QNotifyOverride/build-QNotifyOverride-Qt_6_5_0_for_macOS-Debug/QNotifyOverride_autogen/mocs_compilation.cpp	847a70cae3b326f4
+257	793	1685477013000000000	CMakeFiles/QNotifyOverride.dir/main.cpp.o	e06636822ac42881
+0	257	1685477012000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QNotifyOverride/build-QNotifyOverride-Qt_6_5_0_for_macOS-Debug/QNotifyOverride_autogen/timestamp	847a70cae3b326f4
+257	845	1685477013000000000	CMakeFiles/QNotifyOverride.dir/widget.cpp.o	9cb0a9210730322a
+257	674	1685477013000000000	CMakeFiles/QNotifyOverride.dir/application.cpp.o	ad1faa273ef3a66e
+845	981	1685477013000000000	QNotifyOverride.app/Contents/MacOS/QNotifyOverride	7ad5429fa0a04236
+7	282	1685477444000000000	QNotifyOverride_autogen/timestamp	847a70cae3b326f4
+7	282	1685477444000000000	QNotifyOverride_autogen/mocs_compilation.cpp	847a70cae3b326f4
+7	282	1685477444000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QNotifyOverride/build-QNotifyOverride-Qt_6_5_0_for_macOS-Debug/QNotifyOverride_autogen/timestamp	847a70cae3b326f4
+7	282	1685477444000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QNotifyOverride/build-QNotifyOverride-Qt_6_5_0_for_macOS-Debug/QNotifyOverride_autogen/mocs_compilation.cpp	847a70cae3b326f4
+283	848	1685477445000000000	CMakeFiles/QNotifyOverride.dir/application.cpp.o	ad1faa273ef3a66e
+282	924	1685477445000000000	CMakeFiles/QNotifyOverride.dir/main.cpp.o	e06636822ac42881
+282	947	1685477445000000000	CMakeFiles/QNotifyOverride.dir/widget.cpp.o	9cb0a9210730322a
+282	976	1685477445000000000	CMakeFiles/QNotifyOverride.dir/QNotifyOverride_autogen/mocs_compilation.cpp.o	76228393eb33b78c
+976	1104	1685477445000000000	QNotifyOverride.app/Contents/MacOS/QNotifyOverride	7ad5429fa0a04236

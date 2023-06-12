@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b5f1baac1ad2a18a8d5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ObjectEventFIlter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ObjectEventFIlter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ObjectEventFIlter-Debug-a0da51fb94b8ed8c25b5.json",
+					"name" : "ObjectEventFIlter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ObjectEventFIlter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ObjectEventFIlter_autogen-Debug-dde5d9f1d0361fdf6a83.json",
+					"name" : "ObjectEventFIlter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ObjectEventFIlter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ObjectEventFIlter_autogen_timestamp_deps-Debug-bb6d9f6e8e518e5123aa.json",
+					"name" : "ObjectEventFIlter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug",
+		"source" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/ObjectEventFIlter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

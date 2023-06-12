@@ -1,0 +1,32 @@
+# ninja log v5
+3	204	1686332787000000000	build.ninja	ac92b493cffb412d
+264	840	1686332786000000000	CMakeFiles/ObjectEventFIlter.dir/widget.cpp.o	26997a4e027285d7
+0	264	1686332786000000000	ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+0	264	1686332786000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+0	264	1686332786000000000	ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+0	264	1686332786000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+264	783	1686332786000000000	CMakeFiles/ObjectEventFIlter.dir/main.cpp.o	66cc6bf48c409941
+264	818	1686332786000000000	CMakeFiles/ObjectEventFIlter.dir/ObjectEventFIlter_autogen/mocs_compilation.cpp.o	18964f79e3310316
+264	654	1686332786000000000	CMakeFiles/ObjectEventFIlter.dir/keyboardfilter.cpp.o	a50c050c2b2dc3ee
+840	966	1686332787000000000	ObjectEventFIlter.app/Contents/MacOS/ObjectEventFIlter	b7a69759fa9a8a0e
+9	300	1686333028000000000	ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+9	300	1686333028000000000	ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+9	300	1686333028000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+9	300	1686333028000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+300	877	1686333028000000000	CMakeFiles/ObjectEventFIlter.dir/keyboardfilter.cpp.o	a50c050c2b2dc3ee
+300	927	1686333028000000000	CMakeFiles/ObjectEventFIlter.dir/ObjectEventFIlter_autogen/mocs_compilation.cpp.o	18964f79e3310316
+300	953	1686333028000000000	CMakeFiles/ObjectEventFIlter.dir/widget.cpp.o	26997a4e027285d7
+953	1087	1686333028000000000	ObjectEventFIlter.app/Contents/MacOS/ObjectEventFIlter	b7a69759fa9a8a0e
+7	37	1686333062000000000	ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+7	37	1686333062000000000	ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+7	37	1686333062000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+7	37	1686333062000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+44	654	1686333063000000000	CMakeFiles/ObjectEventFIlter.dir/widget.cpp.o	26997a4e027285d7
+654	804	1686333063000000000	ObjectEventFIlter.app/Contents/MacOS/ObjectEventFIlter	b7a69759fa9a8a0e
+8	40	1686333080000000000	ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+8	40	1686333080000000000	ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+8	40	1686333080000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/timestamp	eb539b988e8661fd
+8	40	1686333080000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QObjectEventFIlter/build-ObjectEventFIlter-Qt_6_5_0_for_macOS-Debug/ObjectEventFIlter_autogen/mocs_compilation.cpp	eb539b988e8661fd
+46	552	1686333080000000000	CMakeFiles/ObjectEventFIlter.dir/keyboardfilter.cpp.o	a50c050c2b2dc3ee
+46	658	1686333080000000000	CMakeFiles/ObjectEventFIlter.dir/widget.cpp.o	26997a4e027285d7
+658	795	1686333081000000000	ObjectEventFIlter.app/Contents/MacOS/ObjectEventFIlter	b7a69759fa9a8a0e
