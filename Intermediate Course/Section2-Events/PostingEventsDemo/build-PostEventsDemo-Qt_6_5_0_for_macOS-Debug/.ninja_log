@@ -1,0 +1,56 @@
+# ninja log v5
+3	163	1686336728000000000	build.ninja	d399f80096997003
+293	893	1686336727000000000	CMakeFiles/PostEventsDemo.dir/PostEventsDemo_autogen/mocs_compilation.cpp.o	39c36fe0d9781e7b
+293	896	1686336727000000000	CMakeFiles/PostEventsDemo.dir/main.cpp.o	bd3c292404136ef7
+0	293	1686336727000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+896	1023	1686336728000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a
+0	293	1686336727000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+0	293	1686336727000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+0	293	1686336727000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+293	814	1686336727000000000	CMakeFiles/PostEventsDemo.dir/button.cpp.o	2d8dc13dc0620283
+293	894	1686336727000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+7	255	1686336760000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+7	255	1686336760000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+7	255	1686336760000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+7	255	1686336760000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+255	762	1686336760000000000	CMakeFiles/PostEventsDemo.dir/button.cpp.o	2d8dc13dc0620283
+255	781	1686336760000000000	CMakeFiles/PostEventsDemo.dir/PostEventsDemo_autogen/mocs_compilation.cpp.o	39c36fe0d9781e7b
+255	804	1686336760000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+804	929	1686336760000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a
+6	254	1686336949000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+6	254	1686336949000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+6	254	1686336949000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+6	254	1686336949000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+254	795	1686336950000000000	CMakeFiles/PostEventsDemo.dir/PostEventsDemo_autogen/mocs_compilation.cpp.o	39c36fe0d9781e7b
+254	821	1686336950000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+254	844	1686336950000000000	CMakeFiles/PostEventsDemo.dir/button.cpp.o	2d8dc13dc0620283
+844	974	1686336950000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a
+6	262	1686337051000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+6	262	1686337051000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+6	262	1686337051000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+6	262	1686337051000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+262	983	1686337052000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+262	1007	1686337052000000000	CMakeFiles/PostEventsDemo.dir/main.cpp.o	bd3c292404136ef7
+262	1037	1686337052000000000	CMakeFiles/PostEventsDemo.dir/PostEventsDemo_autogen/mocs_compilation.cpp.o	39c36fe0d9781e7b
+1037	1165	1686337052000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a
+7	42	1686337146000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+7	42	1686337146000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+7	42	1686337146000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+7	42	1686337146000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+46	518	1686337147000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+518	637	1686337147000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a
+5	317	1686337411000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+5	317	1686337411000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+5	317	1686337411000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+5	317	1686337411000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+317	1142	1686337412000000000	CMakeFiles/PostEventsDemo.dir/main.cpp.o	bd3c292404136ef7
+317	1174	1686337412000000000	CMakeFiles/PostEventsDemo.dir/PostEventsDemo_autogen/mocs_compilation.cpp.o	39c36fe0d9781e7b
+317	1196	1686337412000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+1226	1357	1686337412000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a
+5	30	1686337489000000000	PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+5	30	1686337489000000000	PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+5	30	1686337489000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/timestamp	70d7344e1e4f00e0
+5	30	1686337489000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/PostingEventsDemo/build-PostEventsDemo-Qt_6_5_0_for_macOS-Debug/PostEventsDemo_autogen/mocs_compilation.cpp	70d7344e1e4f00e0
+33	712	1686337489000000000	CMakeFiles/PostEventsDemo.dir/button.cpp.o	2d8dc13dc0620283
+33	740	1686337489000000000	CMakeFiles/PostEventsDemo.dir/widget.cpp.o	126ffac8c743462c
+740	932	1686337490000000000	PostEventsDemo.app/Contents/MacOS/PostEventsDemo	4f2d768d93f8390a

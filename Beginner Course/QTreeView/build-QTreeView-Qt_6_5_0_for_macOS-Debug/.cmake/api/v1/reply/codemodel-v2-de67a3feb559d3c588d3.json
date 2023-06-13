@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-dadb4274de0fcde51250.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QTreeView",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QTreeView::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTreeView-Debug-5d76f71d4edc29a5bb4d.json",
+					"name" : "QTreeView",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTreeView_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTreeView_autogen-Debug-296f96921ef40bc47162.json",
+					"name" : "QTreeView_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTreeView_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTreeView_autogen_timestamp_deps-Debug-aa00156c0404b8af058b.json",
+					"name" : "QTreeView_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/QTreeView/build-QTreeView-Qt_6_5_0_for_macOS-Debug",
+		"source" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/QTreeView/QTreeView"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

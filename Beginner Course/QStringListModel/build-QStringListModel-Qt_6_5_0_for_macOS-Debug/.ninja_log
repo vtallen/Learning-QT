@@ -1,0 +1,21 @@
+# ninja log v5
+1	268	1684013861000000000	QStringListModel_autogen/timestamp	448cf3869af8725e
+1	268	1684013861000000000	QStringListModel_autogen/mocs_compilation.cpp	448cf3869af8725e
+1	268	1684013861000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QStringListModel/build-QStringListModel-Qt_6_5_0_for_macOS-Debug/QStringListModel_autogen/timestamp	448cf3869af8725e
+1	268	1684013861000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QStringListModel/build-QStringListModel-Qt_6_5_0_for_macOS-Debug/QStringListModel_autogen/mocs_compilation.cpp	448cf3869af8725e
+268	831	1684013861000000000	CMakeFiles/QStringListModel.dir/QStringListModel_autogen/mocs_compilation.cpp.o	2441c13d38415d3a
+268	852	1684013861000000000	CMakeFiles/QStringListModel.dir/main.cpp.o	32514ad97b1b0a2b
+7	259	1684014136000000000	QStringListModel_autogen/timestamp	448cf3869af8725e
+7	259	1684014136000000000	QStringListModel_autogen/mocs_compilation.cpp	448cf3869af8725e
+7	259	1684014136000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QStringListModel/build-QStringListModel-Qt_6_5_0_for_macOS-Debug/QStringListModel_autogen/timestamp	448cf3869af8725e
+7	259	1684014136000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QStringListModel/build-QStringListModel-Qt_6_5_0_for_macOS-Debug/QStringListModel_autogen/mocs_compilation.cpp	448cf3869af8725e
+259	811	1684014136000000000	CMakeFiles/QStringListModel.dir/main.cpp.o	32514ad97b1b0a2b
+259	840	1684014136000000000	CMakeFiles/QStringListModel.dir/QStringListModel_autogen/mocs_compilation.cpp.o	2441c13d38415d3a
+260	900	1684014136000000000	CMakeFiles/QStringListModel.dir/widget.cpp.o	931cee873e8ea945
+900	1032	1684014137000000000	QStringListModel.app/Contents/MacOS/QStringListModel	b1c846308fa1bafd
+8	33	1684014204000000000	QStringListModel_autogen/timestamp	448cf3869af8725e
+8	33	1684014204000000000	QStringListModel_autogen/mocs_compilation.cpp	448cf3869af8725e
+8	33	1684014204000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QStringListModel/build-QStringListModel-Qt_6_5_0_for_macOS-Debug/QStringListModel_autogen/timestamp	448cf3869af8725e
+8	33	1684014204000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/QStringListModel/build-QStringListModel-Qt_6_5_0_for_macOS-Debug/QStringListModel_autogen/mocs_compilation.cpp	448cf3869af8725e
+39	626	1684014204000000000	CMakeFiles/QStringListModel.dir/widget.cpp.o	931cee873e8ea945
+627	765	1684014204000000000	QStringListModel.app/Contents/MacOS/QStringListModel	b1c846308fa1bafd

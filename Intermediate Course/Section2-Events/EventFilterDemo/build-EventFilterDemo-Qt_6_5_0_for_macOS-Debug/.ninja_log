@@ -1,0 +1,20 @@
+# ninja log v5
+3	166	1686332049000000000	build.ninja	accccf4b60b6153b
+251	755	1686332049000000000	CMakeFiles/EventFilterDemo.dir/widget.cpp.o	99594b0e785ff7c7
+0	251	1686332048000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventFilterDemo/build-EventFilterDemo-Qt_6_5_0_for_macOS-Debug/EventFilterDemo_autogen/timestamp	cfa7746f8fae5731
+0	251	1686332048000000000	EventFilterDemo_autogen/timestamp	cfa7746f8fae5731
+0	251	1686332048000000000	EventFilterDemo_autogen/mocs_compilation.cpp	cfa7746f8fae5731
+252	805	1686332049000000000	CMakeFiles/EventFilterDemo.dir/main.cpp.o	ad7c3095db08cc21
+252	782	1686332049000000000	CMakeFiles/EventFilterDemo.dir/EventFilterDemo_autogen/mocs_compilation.cpp.o	b997d31edf5f0b15
+0	251	1686332048000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventFilterDemo/build-EventFilterDemo-Qt_6_5_0_for_macOS-Debug/EventFilterDemo_autogen/mocs_compilation.cpp	cfa7746f8fae5731
+251	646	1686332049000000000	CMakeFiles/EventFilterDemo.dir/filter.cpp.o	8409640def93f6a7
+805	925	1686332049000000000	EventFilterDemo.app/Contents/MacOS/EventFilterDemo	b52f2a8c4a6c2823
+7	234	1686332382000000000	EventFilterDemo_autogen/timestamp	cfa7746f8fae5731
+7	234	1686332382000000000	EventFilterDemo_autogen/mocs_compilation.cpp	cfa7746f8fae5731
+7	234	1686332382000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventFilterDemo/build-EventFilterDemo-Qt_6_5_0_for_macOS-Debug/EventFilterDemo_autogen/timestamp	cfa7746f8fae5731
+7	234	1686332382000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/EventFilterDemo/build-EventFilterDemo-Qt_6_5_0_for_macOS-Debug/EventFilterDemo_autogen/mocs_compilation.cpp	cfa7746f8fae5731
+234	811	1686332383000000000	CMakeFiles/EventFilterDemo.dir/filter.cpp.o	8409640def93f6a7
+234	828	1686332383000000000	CMakeFiles/EventFilterDemo.dir/main.cpp.o	ad7c3095db08cc21
+234	855	1686332383000000000	CMakeFiles/EventFilterDemo.dir/widget.cpp.o	99594b0e785ff7c7
+234	888	1686332383000000000	CMakeFiles/EventFilterDemo.dir/EventFilterDemo_autogen/mocs_compilation.cpp.o	b997d31edf5f0b15
+888	1024	1686332383000000000	EventFilterDemo.app/Contents/MacOS/EventFilterDemo	b52f2a8c4a6c2823

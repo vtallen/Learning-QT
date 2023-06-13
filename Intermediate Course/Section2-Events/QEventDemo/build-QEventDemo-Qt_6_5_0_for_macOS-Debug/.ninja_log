@@ -1,0 +1,85 @@
+# ninja log v5
+0	267	1685379200000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+0	267	1685379200000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+0	267	1685379200000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+0	267	1685379200000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+267	847	1685379201000000000	CMakeFiles/QEventDemo.dir/QEventDemo_autogen/mocs_compilation.cpp.o	214421fd67de49ed
+267	875	1685379201000000000	CMakeFiles/QEventDemo.dir/main.cpp.o	c422e85603ded547
+268	901	1685379201000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+901	1044	1685379201000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+8	37	1685379313000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+8	37	1685379313000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+8	37	1685379313000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+8	37	1685379313000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+43	612	1685379314000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+612	749	1685379314000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+6	40	1685379461000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	40	1685379461000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+6	40	1685379461000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	40	1685379461000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+47	625	1685379461000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+625	754	1685379461000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+7	33	1685379675000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+7	33	1685379675000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+7	33	1685379675000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+7	33	1685379675000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+40	626	1685379675000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+626	760	1685379675000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+8	255	1685379797000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+8	255	1685379797000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+8	255	1685379797000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+8	255	1685379797000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+255	865	1685379798000000000	CMakeFiles/QEventDemo.dir/main.cpp.o	c422e85603ded547
+255	893	1685379798000000000	CMakeFiles/QEventDemo.dir/QEventDemo_autogen/mocs_compilation.cpp.o	214421fd67de49ed
+255	982	1685379798000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+982	1124	1685379798000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+5	269	1685379936000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+5	269	1685379936000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+5	269	1685379936000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+5	269	1685379936000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+269	836	1685379936000000000	CMakeFiles/QEventDemo.dir/QEventDemo_autogen/mocs_compilation.cpp.o	214421fd67de49ed
+269	879	1685379936000000000	CMakeFiles/QEventDemo.dir/main.cpp.o	c422e85603ded547
+269	979	1685379936000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+979	1109	1685379936000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+7	33	1685380053000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+7	33	1685380053000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+7	33	1685380053000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+7	33	1685380053000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+38	624	1685380053000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+624	757	1685380054000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+9	35	1685380079000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+9	35	1685380079000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+9	35	1685380079000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+9	35	1685380079000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+42	680	1685380080000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+681	814	1685380080000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+6	29	1685380144000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	29	1685380144000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+6	29	1685380144000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	29	1685380144000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+33	634	1685380145000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+634	773	1685380145000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+11	39	1685380208000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+11	39	1685380208000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+11	39	1685380208000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+11	39	1685380208000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+47	651	1685380208000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+651	791	1685380208000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+6	261	1685380317000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	261	1685380317000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+6	261	1685380317000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	261	1685380317000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+261	809	1685380317000000000	CMakeFiles/QEventDemo.dir/QEventDemo_autogen/mocs_compilation.cpp.o	214421fd67de49ed
+261	831	1685380317000000000	CMakeFiles/QEventDemo.dir/main.cpp.o	c422e85603ded547
+261	878	1685380317000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+878	1006	1685380317000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+6	30	1685380406000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	30	1685380406000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+6	30	1685380406000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+6	30	1685380406000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+33	620	1685380407000000000	CMakeFiles/QEventDemo.dir/widget.cpp.o	1e8cc71350c8b21b
+665	803	1685380407000000000	QEventDemo.app/Contents/MacOS/QEventDemo	96a986f48af49c24
+7	32	1685380456000000000	QEventDemo_autogen/timestamp	1a3f7519e61903dd
+7	32	1685380456000000000	QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
+7	32	1685380456000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/timestamp	1a3f7519e61903dd
+7	32	1685380456000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section2-Events/QEventDemo/build-QEventDemo-Qt_6_5_0_for_macOS-Debug/QEventDemo_autogen/mocs_compilation.cpp	1a3f7519e61903dd
