@@ -1,0 +1,31 @@
+# ninja log v5
+1	283	1686770130000000000	DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+1	283	1686770130000000000	DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+1	283	1686770130000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+1	283	1686770130000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+283	821	1686770130000000000	CMakeFiles/DrawingShapesDemo.dir/DrawingShapesDemo_autogen/mocs_compilation.cpp.o	edeb007582a6c1c0
+283	846	1686770130000000000	CMakeFiles/DrawingShapesDemo.dir/main.cpp.o	5acf4335e192b3ba
+283	876	1686770130000000000	CMakeFiles/DrawingShapesDemo.dir/widget.cpp.o	b3beffe54b98d75e
+876	1002	1686770130000000000	DrawingShapesDemo.app/Contents/MacOS/DrawingShapesDemo	447da43a37e957a9
+6	30	1686770268000000000	DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+6	30	1686770268000000000	DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+6	30	1686770268000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+6	30	1686770268000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+34	614	1686770269000000000	CMakeFiles/DrawingShapesDemo.dir/widget.cpp.o	b3beffe54b98d75e
+614	749	1686770269000000000	DrawingShapesDemo.app/Contents/MacOS/DrawingShapesDemo	447da43a37e957a9
+6	31	1686770339000000000	DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+6	31	1686770339000000000	DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+6	31	1686770339000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+6	31	1686770339000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+5	27	1686770411000000000	DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+5	27	1686770411000000000	DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+5	27	1686770411000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+5	27	1686770411000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+30	572	1686770412000000000	CMakeFiles/DrawingShapesDemo.dir/widget.cpp.o	b3beffe54b98d75e
+572	700	1686770412000000000	DrawingShapesDemo.app/Contents/MacOS/DrawingShapesDemo	447da43a37e957a9
+5	30	1686770435000000000	DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+5	30	1686770435000000000	DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+5	30	1686770435000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/timestamp	f522c764a90f2657
+5	30	1686770435000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/DrawingShapesDemo/build-DrawingShapesDemo-Qt_6_5_0_for_macOS-Debug/DrawingShapesDemo_autogen/mocs_compilation.cpp	f522c764a90f2657
+34	638	1686770436000000000	CMakeFiles/DrawingShapesDemo.dir/widget.cpp.o	b3beffe54b98d75e
+638	777	1686770436000000000	DrawingShapesDemo.app/Contents/MacOS/DrawingShapesDemo	447da43a37e957a9
