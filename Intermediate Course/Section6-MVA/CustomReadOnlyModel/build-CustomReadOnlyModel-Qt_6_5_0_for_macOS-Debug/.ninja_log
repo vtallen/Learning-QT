@@ -1,0 +1,62 @@
+# ninja log v5
+1080	1209	1687132945000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21
+283	786	1687029960000000000	CMakeFiles/CustomReadOnlyModel.dir/main.cpp.o	edab3e4d5d6fdc2c
+12	311	1687132944000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+12	311	1687132944000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+311	987	1687132944000000000	CMakeFiles/CustomReadOnlyModel.dir/CustomReadOnlyModel_autogen/mocs_compilation.cpp.o	4fff7ca690f5a8d9
+311	1049	1687132945000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+2	304	1687132945000000000	build.ninja	7ccd266330e161c0
+289	993	1687030667000000000	CMakeFiles/CustomReadOnlyModel.dir/person.cpp.o	91701a0006a3be72
+311	938	1687132944000000000	CMakeFiles/CustomReadOnlyModel.dir/personmodel.cpp.o	46c6b62dd864d82
+12	311	1687132944000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+12	311	1687132944000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+311	1080	1687132945000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+7	508	1687133444000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+7	508	1687133444000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+7	508	1687133444000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+7	508	1687133444000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+510	1780	1687133445000000000	CMakeFiles/CustomReadOnlyModel.dir/main.cpp.o	edab3e4d5d6fdc2c
+512	1803	1687133445000000000	CMakeFiles/CustomReadOnlyModel.dir/personmodel.cpp.o	46c6b62dd864d82
+508	1824	1687133445000000000	CMakeFiles/CustomReadOnlyModel.dir/CustomReadOnlyModel_autogen/mocs_compilation.cpp.o	4fff7ca690f5a8d9
+513	1946	1687133446000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+511	1968	1687133446000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+1968	2118	1687133446000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21
+7	41	1687133507000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+7	41	1687133507000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+7	41	1687133507000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+7	41	1687133507000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+63	1586	1687133509000000000	CMakeFiles/CustomReadOnlyModel.dir/personmodel.cpp.o	46c6b62dd864d82
+65	1766	1687133509000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+48	1872	1687133509000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+1872	2059	1687133509000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21
+6	37	1687133542000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+6	37	1687133542000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+6	37	1687133542000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+6	37	1687133542000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+42	1285	1687133544000000000	CMakeFiles/CustomReadOnlyModel.dir/personmodel.cpp.o	46c6b62dd864d82
+43	1464	1687133544000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+42	1555	1687133544000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+1555	1704	1687133544000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21
+7	92	1687133606000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+7	92	1687133606000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+7	92	1687133606000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+7	92	1687133606000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+101	1174	1687133607000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+103	1195	1687133607000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+1195	1340	1687133608000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21
+8	50	1687133733000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+8	50	1687133733000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+8	50	1687133733000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+8	50	1687133733000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+67	1228	1687133734000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+68	1325	1687133734000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+1325	1485	1687133734000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21
+24	605	1687178299000000000	CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+24	605	1687178299000000000	CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+24	605	1687178299000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/timestamp	b79750a96e276c9c
+24	605	1687178299000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomReadOnlyModel/build-CustomReadOnlyModel-Qt_6_5_0_for_macOS-Debug/CustomReadOnlyModel_autogen/mocs_compilation.cpp	b79750a96e276c9c
+610	1894	1687178300000000000	CMakeFiles/CustomReadOnlyModel.dir/personmodel.cpp.o	46c6b62dd864d82
+606	1946	1687178300000000000	CMakeFiles/CustomReadOnlyModel.dir/CustomReadOnlyModel_autogen/mocs_compilation.cpp.o	4fff7ca690f5a8d9
+609	1996	1687178300000000000	CMakeFiles/CustomReadOnlyModel.dir/widget.cpp.o	dd63e0da32c29610
+612	2055	1687178300000000000	CMakeFiles/CustomReadOnlyModel.dir/addpersondialog.cpp.o	80d6410fa470712c
+2055	2220	1687178301000000000	CustomReadOnlyModel.app/Contents/MacOS/CustomReadOnlyModel	62971403d09aad21

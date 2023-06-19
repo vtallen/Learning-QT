@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ea3e587c6682f3910842.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QBrushDemo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QBrushDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QBrushDemo-Debug-682a3d9c9f14963c00e2.json",
+					"name" : "QBrushDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QBrushDemo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QBrushDemo_autogen-Debug-2bd48712ad95f0a9a406.json",
+					"name" : "QBrushDemo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QBrushDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QBrushDemo_autogen_timestamp_deps-Debug-ed5c540f97f0ea7ca279.json",
+					"name" : "QBrushDemo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug",
+		"source" : "/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/QBrushDemo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

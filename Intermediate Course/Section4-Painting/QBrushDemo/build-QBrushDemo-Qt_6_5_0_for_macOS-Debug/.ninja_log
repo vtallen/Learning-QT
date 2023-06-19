@@ -1,0 +1,57 @@
+# ninja log v5
+0	347	1686856333000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+0	347	1686856333000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+0	347	1686856333000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+0	347	1686856333000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+347	1055	1686856333000000000	CMakeFiles/QBrushDemo.dir/main.cpp.o	2e66152cb75c8fc8
+347	1058	1686856333000000000	CMakeFiles/QBrushDemo.dir/QBrushDemo_autogen/mocs_compilation.cpp.o	3a7a25af9bc927f3
+347	1186	1686856333000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+1186	1353	1686856334000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+6	30	1686856413000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+6	30	1686856413000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+6	30	1686856413000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+6	30	1686856413000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+34	602	1686856413000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+602	734	1686856414000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+7	38	1686856531000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+7	38	1686856531000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+7	38	1686856531000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+7	38	1686856531000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+43	595	1686856531000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+595	734	1686856531000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+5	37	1686856635000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+5	37	1686856635000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+5	37	1686856635000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+5	37	1686856635000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+40	605	1686856635000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+606	751	1686856636000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+7	39	1686856679000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+7	39	1686856679000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+7	39	1686856679000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+7	39	1686856679000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+43	599	1686856679000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+599	742	1686856679000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+6	30	1686856704000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+6	30	1686856704000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+6	30	1686856704000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+6	30	1686856704000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+34	573	1686856705000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+573	702	1686856705000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+6	35	1686856737000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+6	35	1686856737000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+6	35	1686856737000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+6	35	1686856737000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+39	588	1686856737000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+588	728	1686856737000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+8	40	1686856773000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+8	40	1686856773000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+8	40	1686856773000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+8	40	1686856773000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+44	594	1686856773000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+594	728	1686856773000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777
+8	40	1686856802000000000	QBrushDemo_autogen/timestamp	95b5f80854f41755
+8	40	1686856802000000000	QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+8	40	1686856802000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/timestamp	95b5f80854f41755
+8	40	1686856802000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QBrushDemo/build-QBrushDemo-Qt_6_5_0_for_macOS-Debug/QBrushDemo_autogen/mocs_compilation.cpp	95b5f80854f41755
+44	603	1686856802000000000	CMakeFiles/QBrushDemo.dir/widget.cpp.o	d48f95556600bceb
+603	742	1686856802000000000	QBrushDemo.app/Contents/MacOS/QBrushDemo	a2f30dd544878777

@@ -1,0 +1,21 @@
+# ninja log v5
+31	582	1686952585000000000	CMakeFiles/QPainterPath.dir/widget.cpp.o	60020862f3198c00
+274	977	1686951928000000000	CMakeFiles/QPainterPath.dir/QPainterPath_autogen/mocs_compilation.cpp.o	4c22aa7622a69ed9
+274	993	1686951928000000000	CMakeFiles/QPainterPath.dir/main.cpp.o	e6c266e303deb596
+5	28	1686952584000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPainterPath/build-QPainterPath-Qt_6_5_0_for_macOS-Debug/QPainterPath_autogen/mocs_compilation.cpp	125d891d9884356a
+582	710	1686952585000000000	QPainterPath.app/Contents/MacOS/QPainterPath	e26fbe667ba2586f
+5	28	1686952584000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPainterPath/build-QPainterPath-Qt_6_5_0_for_macOS-Debug/QPainterPath_autogen/timestamp	125d891d9884356a
+5	28	1686952584000000000	QPainterPath_autogen/mocs_compilation.cpp	125d891d9884356a
+5	28	1686952584000000000	QPainterPath_autogen/timestamp	125d891d9884356a
+6	29	1686952659000000000	QPainterPath_autogen/timestamp	125d891d9884356a
+6	29	1686952659000000000	QPainterPath_autogen/mocs_compilation.cpp	125d891d9884356a
+6	29	1686952659000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPainterPath/build-QPainterPath-Qt_6_5_0_for_macOS-Debug/QPainterPath_autogen/timestamp	125d891d9884356a
+6	29	1686952659000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPainterPath/build-QPainterPath-Qt_6_5_0_for_macOS-Debug/QPainterPath_autogen/mocs_compilation.cpp	125d891d9884356a
+35	553	1686952660000000000	CMakeFiles/QPainterPath.dir/widget.cpp.o	60020862f3198c00
+590	729	1686952660000000000	QPainterPath.app/Contents/MacOS/QPainterPath	e26fbe667ba2586f
+5	28	1686952755000000000	QPainterPath_autogen/timestamp	125d891d9884356a
+5	28	1686952755000000000	QPainterPath_autogen/mocs_compilation.cpp	125d891d9884356a
+5	28	1686952755000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPainterPath/build-QPainterPath-Qt_6_5_0_for_macOS-Debug/QPainterPath_autogen/timestamp	125d891d9884356a
+5	28	1686952755000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPainterPath/build-QPainterPath-Qt_6_5_0_for_macOS-Debug/QPainterPath_autogen/mocs_compilation.cpp	125d891d9884356a
+35	582	1686952755000000000	CMakeFiles/QPainterPath.dir/widget.cpp.o	60020862f3198c00
+613	747	1686952755000000000	QPainterPath.app/Contents/MacOS/QPainterPath	e26fbe667ba2586f

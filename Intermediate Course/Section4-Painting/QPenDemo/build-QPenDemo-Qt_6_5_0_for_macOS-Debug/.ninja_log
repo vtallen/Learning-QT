@@ -1,0 +1,45 @@
+# ninja log v5
+0	292	1686855503000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+0	292	1686855503000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+0	292	1686855503000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+0	292	1686855503000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+292	847	1686855504000000000	CMakeFiles/QPenDemo.dir/QPenDemo_autogen/mocs_compilation.cpp.o	47e57a624fbfb00f
+292	850	1686855504000000000	CMakeFiles/QPenDemo.dir/main.cpp.o	913ed9fb279b18bf
+292	901	1686855504000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+901	1034	1686855504000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
+5	33	1686855604000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+5	33	1686855604000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+5	33	1686855604000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+5	33	1686855604000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+37	601	1686855604000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+601	737	1686855604000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
+7	40	1686855639000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+7	40	1686855639000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+7	40	1686855639000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+7	40	1686855639000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+44	632	1686855639000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+632	776	1686855639000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
+5	28	1686855659000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+5	28	1686855659000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+5	28	1686855659000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+5	28	1686855659000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+32	591	1686855659000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+591	724	1686855660000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
+5	30	1686855789000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+5	30	1686855789000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+5	30	1686855789000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+5	30	1686855789000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+34	620	1686855789000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+620	751	1686855789000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
+7	40	1686855808000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+7	40	1686855808000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+7	40	1686855808000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+7	40	1686855808000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+45	614	1686855809000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+614	759	1686855809000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
+7	34	1686855954000000000	QPenDemo_autogen/timestamp	810615419759d1c9
+7	34	1686855954000000000	QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+7	34	1686855954000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/timestamp	810615419759d1c9
+7	34	1686855954000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section4-Painting/QPenDemo/build-QPenDemo-Qt_6_5_0_for_macOS-Debug/QPenDemo_autogen/mocs_compilation.cpp	810615419759d1c9
+41	598	1686855954000000000	CMakeFiles/QPenDemo.dir/widget.cpp.o	f9dcda04d5716a45
+599	727	1686855955000000000	QPenDemo.app/Contents/MacOS/QPenDemo	45b53723b2b27b93
