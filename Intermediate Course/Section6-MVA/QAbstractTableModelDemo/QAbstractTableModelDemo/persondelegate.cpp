@@ -1,6 +1,6 @@
 #include "persondelegate.h"
 #include "personmodel.h"
-
+#include <QPainter>
 PersonDelegate::PersonDelegate(QObject *parent)
     : QStyledItemDelegate{parent}
 {
@@ -57,4 +57,38 @@ void PersonDelegate::updateEditorGeometry(QWidget *editor, const QStyleOptionVie
 QSize PersonDelegate::sizeHint(const QStyleOptionViewItem &option, const QModelIndex &index) const
 {
     return QStyledItemDelegate::sizeHint(option, index).expandedTo(QSize(64, option.fontMetrics.height() + 10));
+}
+
+
+void PersonDelegate::paint(QPainter *painter, const QStyleOptionViewItem &option, const QModelIndex &index) const
+{
+    if (index.column() == 2) {
+        if (option.state & QStyle::State_Selected) {
+            painter->fillRect(option.rect, option.palette.highlight());
+        }
+
+        QString favColor = index.data(PersonModel::FavoriteColorRole).toString();
+
+        painter->save();
+        painter->setBrush(QBrush(QColor(favColor)));
+
+        painter->drawRect(option.rect.adjusted(3, 3, -3, -3));
+
+        // Text size
+        QSize textSize = option.fontMetrics.size(Qt::TextSingleLine, favColor);
+
+        painter->setBrush(QBrush(Qt::white));
+
+        int wAdj = (option.rect.width() - textSize.width()) / 2;
+        int hAdj = (option.rect.width() - textSize.height()) / 2;
+
+        //painter->drawRect(option.rect.adjusted(wAdj, hAdj, -wAdj, -hAdj));
+
+        painter->drawText(option.rect, favColor, Qt::AlignHCenter | Qt::AlignVCenter);
+
+        painter->restore();
+
+    } else {
+        QStyledItemDelegate::paint(painter, option, index);
+    }
 }

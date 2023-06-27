@@ -1,0 +1,15 @@
+# ninja log v5
+159	1410	1687908293000000000	CMakeFiles/DelegatesChallenge.dir/DelegatesChallenge_autogen/mocs_compilation.cpp.o	ccd6f2c745ce7106
+27	159	1687908292000000000	DelegatesChallenge_autogen/mocs_compilation.cpp	1aef85243f5bad57
+2	552	1687908293000000000	build.ninja	b2b30ac5022e62e5
+27	159	1687908292000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/DelegatesChallenge/build-DelegatesChallenge-Qt_6_5_0_for_macOS-Debug/DelegatesChallenge_autogen/timestamp	1aef85243f5bad57
+27	159	1687908292000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/DelegatesChallenge/build-DelegatesChallenge-Qt_6_5_0_for_macOS-Debug/DelegatesChallenge_autogen/mocs_compilation.cpp	1aef85243f5bad57
+27	159	1687908292000000000	DelegatesChallenge_autogen/timestamp	1aef85243f5bad57
+1410	1547	1687908293000000000	DelegatesChallenge.app/Contents/MacOS/DelegatesChallenge	16227f52815a9fe7
+161	1373	1687908293000000000	CMakeFiles/DelegatesChallenge.dir/widget.cpp.o	f05ec6420202457c
+647	3915	1687908024000000000	CMakeFiles/DelegatesChallenge.dir/main.cpp.o	b2c7305d0c3defda
+333	946	1687897655000000000	CMakeFiles/DelegatesChallenge.dir/stareditor.cpp.o	de06615d87c94707
+162	1330	1687908293000000000	CMakeFiles/DelegatesChallenge.dir/persondelegate.cpp.o	7da7c096a9c881ef
+333	991	1687897656000000000	CMakeFiles/DelegatesChallenge.dir/stardelegate.cpp.o	dc438c66c69a9518
+94	961	1687899010000000000	CMakeFiles/DelegatesChallenge.dir/person.cpp.o	80b1a5074b5c2e6f
+99	1064	1687898975000000000	CMakeFiles/DelegatesChallenge.dir/personmodel.cpp.o	1cd06be16771143b

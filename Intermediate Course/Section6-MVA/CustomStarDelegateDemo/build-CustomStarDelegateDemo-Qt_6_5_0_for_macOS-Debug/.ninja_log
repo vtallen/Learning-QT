@@ -1,0 +1,12 @@
+# ninja log v5
+4261	5436	1687818234000000000	CMakeFiles/CustomStarDelegateDemo.dir/stardelegate.cpp.o	6f1aeb43145b20e7
+4261	6587	1687818234000000000	CMakeFiles/CustomStarDelegateDemo.dir/widget.cpp.o	63a547800fa725b7
+4261	6604	1687818235000000000	CMakeFiles/CustomStarDelegateDemo.dir/CustomStarDelegateDemo_autogen/mocs_compilation.cpp.o	12e34ffdf47ff2d8
+17	4261	1687818233000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomStarDelegateDemo/build-CustomStarDelegateDemo-Qt_6_5_0_for_macOS-Debug/CustomStarDelegateDemo_autogen/mocs_compilation.cpp	4d2d2f97a606719
+4261	6584	1687818234000000000	CMakeFiles/CustomStarDelegateDemo.dir/main.cpp.o	2435a8dcdc1b66d
+17	4261	1687818233000000000	/Volumes/External/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomStarDelegateDemo/build-CustomStarDelegateDemo-Qt_6_5_0_for_macOS-Debug/CustomStarDelegateDemo_autogen/timestamp	4d2d2f97a606719
+6604	6877	1687818236000000000	CustomStarDelegateDemo.app/Contents/MacOS/CustomStarDelegateDemo	d9ab76368a42ff13
+17	4261	1687818233000000000	CustomStarDelegateDemo_autogen/mocs_compilation.cpp	4d2d2f97a606719
+17	4261	1687818233000000000	CustomStarDelegateDemo_autogen/timestamp	4d2d2f97a606719
+2	167	1687814219000000000	build.ninja	78e362d91bd63988
+346	1183	1687815682000000000	CMakeFiles/CustomStarDelegateDemo.dir/stareditor.cpp.o	75ce81c921bb4321

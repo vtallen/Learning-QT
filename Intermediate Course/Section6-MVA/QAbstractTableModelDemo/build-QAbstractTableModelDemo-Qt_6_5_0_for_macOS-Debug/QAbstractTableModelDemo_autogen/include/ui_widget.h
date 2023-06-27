@@ -38,7 +38,7 @@ public:
     {
         if (Widget->objectName().isEmpty())
             Widget->setObjectName("Widget");
-        Widget->resize(800, 600);
+        Widget->resize(1575, 606);
         verticalLayout = new QVBoxLayout(Widget);
         verticalLayout->setObjectName("verticalLayout");
         horizontalLayout = new QHBoxLayout();

@@ -10,15 +10,14 @@ Widget::Widget(QWidget *parent)
 {
     ui->setupUi(this);
     PersonModel *model = new PersonModel(this);
-    PersonDelegate *delegate = new PersonDelegate(this);
 
     ui->listView->setModel(model);
 
     ui->treeView->setModel(model);
-    ui->treeView->setItemDelegate(delegate);
+    ui->treeView->setItemDelegate(new PersonDelegate);
 
     ui->tableView->setModel(model);
-    ui->tableView->setItemDelegateForColumn(2, delegate);
+    ui->tableView->setItemDelegateForColumn(2, new PersonDelegate);
 
     connect(ui->addButton, &QPushButton::clicked, this, [=](){
         AddPersonDialog dialog(this);
