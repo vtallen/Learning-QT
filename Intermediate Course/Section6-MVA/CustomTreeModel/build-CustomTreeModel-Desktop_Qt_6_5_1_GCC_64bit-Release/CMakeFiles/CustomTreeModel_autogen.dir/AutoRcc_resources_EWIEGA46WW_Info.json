@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Release/CustomTreeModel_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/CustomTreeModel",
+	"CMAKE_SOURCE_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/CustomTreeModel",
+	"INCLUDE_DIR" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Release/CustomTreeModel_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/CustomTreeModel/data/familytree.txt"
+	],
+	"LOCK_FILE" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Release/CMakeFiles/CustomTreeModel_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/vtallen/Qt/6.5.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Release/CMakeFiles/CustomTreeModel_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/CustomTreeModel/resources.qrc",
+	"VERBOSITY" : 0
+}

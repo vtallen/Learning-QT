@@ -1,0 +1,10 @@
+# ninja log v5
+19	775	1688599768332288489	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	c9a8cadaec5b6351
+149	967	1688599292533890633	CMakeFiles/CustomTreeModel.dir/main.cpp.o	dbadab1f33e757b2
+149	943	1688599292508890717	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	e880a2348f446555
+1	18	1688599767576290840	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	bfc8d2e322f0c2b7
+0	94	1688599798396194998	build.ninja	c7a886993396fe5d
+1	18	1688599767576290840	CustomTreeModel_autogen/mocs_compilation.cpp	bfc8d2e322f0c2b7
+1	18	1688599767576290840	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	bfc8d2e322f0c2b7
+1	18	1688599767576290840	CustomTreeModel_autogen/timestamp	bfc8d2e322f0c2b7
+775	937	1688599768493287988	CustomTreeModel	f5ca9df3c35cd1c2
