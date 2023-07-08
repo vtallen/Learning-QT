@@ -1,15 +1,14 @@
 #include "widget.h"
 #include "./ui_widget.h"
+
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
-    , ui(new Ui::Widget)
-    , mRootPerson(new Person("Name", "Profession", nullptr))
+    , ui(new Ui::Widget) 
 {
     ui->setupUi(this);
+    PersonTreeModel *model = new PersonTreeModel(this);
 
-    connect(ui->readFileButton, &QPushButton::clicked, this, &Widget::readFileClicked);
-    connect(ui->showInfoButton, &QPushButton::clicked, this, &Widget::showInfoClicked);
-
+    ui->treeView->setModel(model);
 }
 
 Widget::~Widget()

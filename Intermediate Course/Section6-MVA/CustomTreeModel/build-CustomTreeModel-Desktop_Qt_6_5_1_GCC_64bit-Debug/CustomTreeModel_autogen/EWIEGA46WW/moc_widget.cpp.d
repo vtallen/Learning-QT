@@ -1,15 +1,20 @@
 /home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate\ Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/EWIEGA46WW/moc_widget.cpp: /home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate\ Course/Section6-MVA/CustomTreeModel/CustomTreeModel/widget.h \
   /home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate\ Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/moc_predefs.h \
   /home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate\ Course/Section6-MVA/CustomTreeModel/CustomTreeModel/person.h \
+  /home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate\ Course/Section6-MVA/CustomTreeModel/CustomTreeModel/persontreemodel.h \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QAbstractItemModel \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QDebug \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QFile \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QIODevice \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QList \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QObject \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QString \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QStringList \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QTextStream \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/QVariant \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/q20memory.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/q20type_traits.h \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/qabstractitemmodel.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/qalgorithms.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/qanystringview.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtCore/qarraydata.h \
@@ -142,7 +147,10 @@
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtGui/qtguiglobal.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtGui/qtransform.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtGui/qwindowdefs.h \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/QPushButton \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/QWidget \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/qabstractbutton.h \
+  /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/qpushbutton.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/qsizepolicy.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/qtwidgets-config.h \
   /home/vtallen/Qt/6.5.1/gcc_64/include/QtWidgets/qtwidgetsexports.h \

@@ -5,10 +5,12 @@
 #include <QFile>
 #include <QIODevice>
 #include <QTextStream>
+#include <QPushButton>
 
 #include <cassert>
 
 #include "person.h"
+#include "persontreemodel.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Widget; }

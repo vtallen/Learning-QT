@@ -1,47 +1,87 @@
 # ninja log v5
-0	159	1688688742712329424	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-0	159	1688688742712329424	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-0	159	1688688742712329424	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-0	159	1688688742712329424	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-159	163	1688688742719329396	CustomTreeModel_autogen/EWIEGA46WW/qrc_resources.cpp	efe773ed11ddb78d
-159	163	1688688742719329396	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/EWIEGA46WW/qrc_resources.cpp	efe773ed11ddb78d
-163	184	1688688742739329317	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/EWIEGA46WW/qrc_resources.cpp.o	80b27eaab216452f
-163	962	1688688743517326237	CMakeFiles/CustomTreeModel.dir/person.cpp.o	43fdf71c8d1e8e95
-163	997	1688688743552326098	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
-163	1047	1688688743602325900	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
-163	1367	1688688743922324633	CMakeFiles/CustomTreeModel.dir/main.cpp.o	3121c3897467f83
-1367	1555	1688688744108323897	CustomTreeModel	1abc6a47404dfc8
-2	159	1688689264992159530	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-2	159	1688689264992159530	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-2	159	1688689264992159530	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-2	159	1688689264992159530	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-159	1211	1688689266046156682	CMakeFiles/CustomTreeModel.dir/main.cpp.o	3121c3897467f83
-160	1481	1688689266316155953	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
-160	1633	1688689266469155539	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
-1633	1819	1688689266652155045	CustomTreeModel	1abc6a47404dfc8
-1	10	1688689622173378045	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-1	10	1688689622173378045	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-1	10	1688689622173378045	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-1	10	1688689622173378045	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-0	149	1688689651298326899	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-0	149	1688689651298326899	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-0	149	1688689651298326899	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-0	149	1688689651298326899	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-150	1162	1688689652311325121	CMakeFiles/CustomTreeModel.dir/main.cpp.o	3121c3897467f83
-150	1358	1688689652508324775	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
-1	10	1688689662965306411	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-1	10	1688689662965306411	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-1	10	1688689662965306411	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-1	10	1688689662965306411	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-2	9	1688689687803262795	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-2	9	1688689687803262795	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-2	9	1688689687803262795	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-2	9	1688689687803262795	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-10	1075	1688689688868260925	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
-1075	1260	1688689689051260604	CustomTreeModel	1abc6a47404dfc8
-1	10	1688691558074442385	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-1	10	1688691558074442385	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
-1	10	1688691558074442385	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
-1	10	1688691558074442385	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
 11	1074	1688691559138439965	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+150	1162	1688689652311325121	CMakeFiles/CustomTreeModel.dir/main.cpp.o	3121c3897467f83
+159	163	1688688742719329396	CustomTreeModel_autogen/EWIEGA46WW/qrc_resources.cpp	efe773ed11ddb78d
+163	184	1688688742739329317	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/EWIEGA46WW/qrc_resources.cpp.o	80b27eaab216452f
+159	163	1688688742719329396	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/EWIEGA46WW/qrc_resources.cpp	efe773ed11ddb78d
+116	1042	1688733224842058902	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
+0	112	1688733224938058714	build.ninja	cfc61c3e301915d1
+1	116	1688733223915060726	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+163	962	1688688743517326237	CMakeFiles/CustomTreeModel.dir/person.cpp.o	43fdf71c8d1e8e95
+1	116	1688733223915060726	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	116	1688733223915060726	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
 1074	1264	1688691559326439538	CustomTreeModel	1abc6a47404dfc8
+1	116	1688733223915060726	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+116	719	1688733224520059536	CMakeFiles/CustomTreeModel.dir/persontreemodel.cpp.o	ab73f1a301a5d8d3
+1	149	1688733255776998026	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	149	1688733255776998026	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	149	1688733255776998026	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	149	1688733255776998026	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+149	1183	1688733256812995987	CMakeFiles/CustomTreeModel.dir/main.cpp.o	3121c3897467f83
+149	1338	1688733256966995684	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
+1	9	1688733275117959967	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	9	1688733275117959967	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	9	1688733275117959967	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	9	1688733275117959967	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+10	1165	1688733276272957694	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1165	1372	1688733276478957289	CustomTreeModel	f16ca228b9c311a7
+1	149	1688733461947139455	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	149	1688733461947139455	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	149	1688733461947139455	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	149	1688733461947139455	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+149	1189	1688733462989135577	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
+149	1334	1688733463135135033	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1	143	1688733527728931541	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	143	1688733527728931541	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	143	1688733527728931541	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	143	1688733527728931541	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+143	1216	1688733528802928309	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
+144	1729	1688733529316926762	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1	10	1688733545053880791	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	10	1688733545053880791	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	10	1688733545053880791	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	10	1688733545053880791	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+11	1175	1688733546217877702	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1	142	1688733568064819730	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	142	1688733568064819730	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	142	1688733568064819730	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	142	1688733568064819730	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+142	1106	1688733569030817167	CMakeFiles/CustomTreeModel.dir/persontreemodel.cpp.o	ab73f1a301a5d8d3
+142	1192	1688733569116816939	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
+142	1713	1688733569636815559	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1713	1890	1688733569811815095	CustomTreeModel	f16ca228b9c311a7
+2	273	1688778129619395904	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+2	273	1688778129619395904	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+2	273	1688778129619395904	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+2	273	1688778129619395904	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+273	1377	1688778130726394975	CMakeFiles/CustomTreeModel.dir/persontreemodel.cpp.o	ab73f1a301a5d8d3
+273	1752	1688778131101394661	CMakeFiles/CustomTreeModel.dir/main.cpp.o	3121c3897467f83
+273	1802	1688778131151394619	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+273	2012	1688778131361394443	CMakeFiles/CustomTreeModel.dir/CustomTreeModel_autogen/mocs_compilation.cpp.o	31fc2cc3513aac39
+2012	2205	1688778131553394282	CustomTreeModel	f16ca228b9c311a7
+1	11	1688778170334361750	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	11	1688778170334361750	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	11	1688778170334361750	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	11	1688778170334361750	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+12	1266	1688778171588360698	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1266	1469	1688778171790360529	CustomTreeModel	f16ca228b9c311a7
+1	9	1688778208136332107	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	9	1688778208136332107	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	9	1688778208136332107	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	9	1688778208136332107	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+10	988	1688778209114331346	CMakeFiles/CustomTreeModel.dir/persontreemodel.cpp.o	ab73f1a301a5d8d3
+10	1219	1688778209346331165	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1219	1430	1688778209555331002	CustomTreeModel	f16ca228b9c311a7
+1	11	1688778216577325537	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	11	1688778216577325537	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	11	1688778216577325537	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	11	1688778216577325537	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+11	1584	1688778218149324314	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1584	1770	1688778218334324170	CustomTreeModel	f16ca228b9c311a7
+1	9	1688778422070800462	CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	9	1688778422070800462	CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+1	9	1688778422070800462	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/timestamp	39a1622ace9ff506
+1	9	1688778422070800462	/home/vtallen/Nextcloud/Programming/QT/LearningQT/Intermediate Course/Section6-MVA/CustomTreeModel/build-CustomTreeModel-Desktop_Qt_6_5_1_GCC_64bit-Debug/CustomTreeModel_autogen/mocs_compilation.cpp	39a1622ace9ff506
+10	967	1688778423028797813	CMakeFiles/CustomTreeModel.dir/persontreemodel.cpp.o	ab73f1a301a5d8d3
+10	1365	1688778423425796715	CMakeFiles/CustomTreeModel.dir/widget.cpp.o	3515b20fb5911b25
+1365	1562	1688778423621796173	CustomTreeModel	f16ca228b9c311a7

@@ -19,6 +19,7 @@ set(PROJECT_SOURCES
         widget.ui
         resources.qrc
         person.h person.cpp
+        persontreemodel.cpp persontreemodel.h
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

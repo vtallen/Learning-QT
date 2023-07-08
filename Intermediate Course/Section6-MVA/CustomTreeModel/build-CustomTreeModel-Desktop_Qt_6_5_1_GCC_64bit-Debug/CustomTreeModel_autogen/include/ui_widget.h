@@ -11,7 +11,9 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
-#include <QtWidgets/QPushButton>
+#include <QtWidgets/QHeaderView>
+#include <QtWidgets/QTreeView>
+#include <QtWidgets/QVBoxLayout>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -19,20 +21,21 @@ QT_BEGIN_NAMESPACE
 class Ui_Widget
 {
 public:
-    QPushButton *readFileButton;
-    QPushButton *showInfoButton;
+    QVBoxLayout *verticalLayout;
+    QTreeView *treeView;
 
     void setupUi(QWidget *Widget)
     {
         if (Widget->objectName().isEmpty())
             Widget->setObjectName("Widget");
         Widget->resize(800, 600);
-        readFileButton = new QPushButton(Widget);
-        readFileButton->setObjectName("readFileButton");
-        readFileButton->setGeometry(QRect(250, 270, 80, 26));
-        showInfoButton = new QPushButton(Widget);
-        showInfoButton->setObjectName("showInfoButton");
-        showInfoButton->setGeometry(QRect(430, 260, 80, 26));
+        verticalLayout = new QVBoxLayout(Widget);
+        verticalLayout->setObjectName("verticalLayout");
+        treeView = new QTreeView(Widget);
+        treeView->setObjectName("treeView");
+
+        verticalLayout->addWidget(treeView);
+
 
         retranslateUi(Widget);
 
@@ -42,8 +45,6 @@ public:
     void retranslateUi(QWidget *Widget)
     {
         Widget->setWindowTitle(QCoreApplication::translate("Widget", "Widget", nullptr));
-        readFileButton->setText(QCoreApplication::translate("Widget", "Read File", nullptr));
-        showInfoButton->setText(QCoreApplication::translate("Widget", "Show Info", nullptr));
     } // retranslateUi
 
 };
